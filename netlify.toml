@@ -1,0 +1,10 @@
+[[headers]]
+for = "/*"
+[headers.values]
+Referrer-Policy = "no-referrer"
+Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+X-Content-Type-Options = "nosniff"
+X-Download-Options = "noopen"
+X-Frame-Options = "DENY"
+X-Permitted-Cross-Domain-Policies = "none"
+X-XSS-Protection = "1; mode=block"
