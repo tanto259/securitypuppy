@@ -1,7 +1,14 @@
+[[redirects]]
+from = "http://www.securitypuppy.com/*"
+to = "https://www.securitypuppy.com/:splat"
+status = 301
+force = true
+
 [[headers]]
 for = "/*"
 [headers.values]
-Expect-CT= 'max-age=2592000, enforce, report-uri="https://securitypuppy.report-uri.com/r/d/ct/enforce"'
+Expect-CT = 'max-age=2592000, enforce, report-uri="https://securitypuppy.report-uri.com/r/d/ct/enforce"'
+Feature-Policy = "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; usb 'none'; vr 'none'"
 Referrer-Policy = "no-referrer"
 Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 X-Content-Type-Options = "nosniff"
