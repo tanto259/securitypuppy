@@ -75,6 +75,10 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+# Include for processing.
+include:
+  - .well-known
+
 # Front Matter Defaults
 defaults:
   # _posts

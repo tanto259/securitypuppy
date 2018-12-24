@@ -4,6 +4,18 @@ to = "https://www.securitypuppy.com/:splat"
 status = 301
 force = true
 
+[[redirect]]
+from = "https://securitypuppy.com/privacy"
+to = "https://securitypuppy.com/legal#privacy"
+status = 302
+force = true
+
+[[redirect]]
+from = "https://securitypuppy.com/contact"
+to = "https://securitypuppy.com/about#contact"
+status = 302
+force = true
+
 [[headers]]
 for = "/*"
 [headers.values]
@@ -17,3 +29,8 @@ X-Frame-Options = "DENY"
 X-Permitted-Cross-Domain-Policies = "none"
 X-Security = "Puppies are awesome!"
 X-XSS-Protection = "1; mode=block; report=https://securitypuppy.report-uri.com/r/d/xss/enforce"
+
+[[headers]]
+for = "/docs/*"
+[headers.values]
+X-Robots-Tag = "noindex, nofollow"

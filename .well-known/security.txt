@@ -1,0 +1,11 @@
+# securitypuppy.com security.txt
+# Last Updated: December 24, 2018
+
+# Please contact us using the following method
+Contact: https://securitypuppy.com/contact
+
+# If you prefer to encrypt your message, this PGP key is available
+Encryption: https://securitypuppy.com/.well-known/openpgpkey/EEB1D3AF8CF1C236.pub.asc
+
+# This file is electronically signed using the PGP key listed above
+Signature: https://securitypuppy.com/.well-known/security.txt.sig
