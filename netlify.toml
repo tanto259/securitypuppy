@@ -4,13 +4,13 @@ to = "https://www.securitypuppy.com/:splat"
 status = 301
 force = true
 
-[[redirect]]
+[[redirects]]
 from = "https://securitypuppy.com/privacy"
 to = "https://securitypuppy.com/legal#privacy"
 status = 302
 force = true
 
-[[redirect]]
+[[redirects]]
 from = "https://securitypuppy.com/contact"
 to = "https://securitypuppy.com/about#contact"
 status = 302
