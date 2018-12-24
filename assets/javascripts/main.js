@@ -2,7 +2,7 @@
 ---
 
 /*!
- * Basically Basic Jekyll Theme 1.4.0
+ * Basically Basic Jekyll Theme 1.4.1
  * Copyright 2017-2018 Michael Rose - mademistakes | @mmistakes
  * Free for personal and commercial use under the MIT license
  * https://github.com/mmistakes/jekyll-basically-theme/blob/master/LICENSE.md
@@ -60,9 +60,12 @@ myMenu.addEventListener('click', function () {
   toggleClassMenu();
   animateMenuItems();
 }, false);
-mySearchToggle.addEventListener('click', function () {
+if (mySearchToggle) {
+  mySearchToggle.addEventListener('click', function () {
   toggleClassSearch();
-}, false);
+  }, false);
+}
+
 
 // Toggle search input and content visibility
 function toggleClassSearch() {
