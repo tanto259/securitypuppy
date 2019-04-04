@@ -2,7 +2,7 @@
   {% if page.image %}
     {% assign intro_image = page.image.path | default: page.image %}
     {% unless intro_image contains '://' %}
-      {% assign intro_image = intro_image | relative_url %}
+      {% assign intro_image = intro_image | absolute_url %}
     {% endunless %}
     {% assign intro_image = intro_image | escape %}
     <div class="intro-image">

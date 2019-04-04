@@ -23,6 +23,9 @@ author:
   name: Hartanto Ario Widjaya
   twitter: tanto259
   picture:
+twitter:
+  username: tanto259
+  card: summary
 twitter_username: tanto259
 github_username: tanto259
 logo: "/assets/images/logo.png"
@@ -42,6 +45,10 @@ plugins: # previsously gems
   - jekyll-paginate
 feed:
   path: atom.xml
+
+# Outputting
+permalink: /:title
+excerpt_separator: <!--more-->
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10

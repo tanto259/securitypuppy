@@ -16,7 +16,7 @@
     {% if site.data.authors and site.data.authors[author] %}
       {% assign author_picture = site.data.authors[author].picture %}
     {% endif %}
-    {% unless author_picture contains '://' %}{% assign author_picture = author_picture | relative_url %}{% endunless %}
+    {% unless author_picture contains '://' %}{% assign author_picture = author_picture | absolute_url %}{% endunless %}
   {% endif %}
 
   {% if author.twitter %}

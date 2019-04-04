@@ -2,9 +2,9 @@
   {% include google-analytics.html %}
 {% endif %}
 
-<script src="{{ '/assets/javascripts/jquery-3.3.1.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/javascripts/email.js' | relative_url }}"></script>
-<script async src="{{ '/assets/javascripts/main.js' | relative_url }}"></script>
+<script src="{{ '/assets/javascripts/jquery-3.3.1.min.js' | absolute_url }}"></script>
+<script src="{{ '/assets/javascripts/email.js' | absolute_url }}"></script>
+<script async src="{{ '/assets/javascripts/main.js' | absolute_url }}"></script>
 
 {% if site.search %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
