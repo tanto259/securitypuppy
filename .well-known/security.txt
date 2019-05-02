@@ -1,11 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 # securitypuppy.com security.txt
-# Last Updated: December 24, 2018
+# Last Updated: May 2, 2019
 
-# Please contact us using the following method
+# RFC2142 mailboxes are also available to contact
+
 Contact: https://securitypuppy.com/contact
-
-# If you prefer to encrypt your message, this PGP key is available
 Encryption: https://securitypuppy.com/.well-known/openpgpkey/EEB1D3AF8CF1C236.pub.asc
+Preferred-Languages: en, id
+Canonical: https://securitypuppy.com/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
 
-# This file is electronically signed using the PGP key listed above
-Signature: https://securitypuppy.com/.well-known/security.txt.sig
+iHUEARYIAB0WIQRcWEJUvOzTYapGixiRovm9ehfhzAUCXMrnSAAKCRCRovm9ehfh
+zIgAAP0bOAShzZ6suy1hw4IqXprz/DZAlit0KcC3pzDN/9sb5wEA5MKH6MakQVm9
+GqU7baKKu4ugQQ5tHlpL4xyl7xToBwA=
+=EknM
+-----END PGP SIGNATURE-----
