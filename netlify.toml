@@ -5,6 +5,12 @@ status = 301
 force = true
 
 [[redirects]]
+from = "https://securitypuppy.com/security.txt"
+to = "https://securitypuppy.com/.well-known/security.txt"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://securitypuppy.com/privacy"
 to = "https://securitypuppy.com/legal#privacy"
 status = 302
@@ -20,13 +26,17 @@ force = true
 for = "/*"
 [headers.values]
 Expect-CT = 'max-age=2592000, enforce, report-uri="https://securitypuppy.report-uri.com/r/d/ct/enforce"'
-Feature-Policy = "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; usb 'none'; vr 'none'"
+Feature-Policy = "accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; display-capture 'none'; document-domain 'none'; encrypted-media 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; sync-xhr 'none'; usb 'none'; vibrate 'none'; vr 'none'; wake-lock 'none'; webauthn 'self'"
+NEL = '{"report_to": "default", "max-age": 31536000, "include_subdomains": true}'
 Referrer-Policy = "no-referrer"
+Report-To = '{"group": "default", "max-age": 31536000, "endpoints": [{"url": "https://securitypuppy.report-uri.com/a/d/g"}], "include_subdomains": true}'
 Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 X-Content-Type-Options = "nosniff"
+X-DNS-Prefetch-Control = "off"
 X-Download-Options = "noopen"
 X-Frame-Options = "DENY"
 X-Permitted-Cross-Domain-Policies = "none"
+X-Powered-By = "Coffee with puppies :)"
 X-Security = "Puppies are awesome!"
 X-XSS-Protection = "1; mode=block; report=https://securitypuppy.report-uri.com/r/d/xss/enforce"
 
@@ -34,3 +44,8 @@ X-XSS-Protection = "1; mode=block; report=https://securitypuppy.report-uri.com/r
 for = "/docs/*"
 [headers.values]
 X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+for = "/.well-known/openpgpkey/hu/*"
+[headers.values]
+Content-Type = "application/octet-stream"
