@@ -77,7 +77,7 @@ exclude:
   - LICENSE
   - node_modules
   - Rakefile
-  - README
+  - README.md
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/

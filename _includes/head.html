@@ -17,12 +17,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   {% endif %}
 
-  <script>
-    /* Cut the mustard */
-    if ( 'querySelector' in document && 'addEventListener' in window ) {
-      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
-    }
-  </script>
+  <script src="{{ 'assets/javascripts/replace.js' | absolute_url }}"></script>
 
   <link rel="stylesheet" href="{{ '/assets/stylesheets/main.css' | absolute_url }}">
   {% if site.data.theme.google_fonts %}
