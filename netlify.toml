@@ -1,4 +1,16 @@
 [[redirects]]
+from = "https://securitypuppy.netlify.com/*"
+to = "https://securitypuppy.com/:splat"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://securitypuppy.netlify.app/*"
+to = "https://securitypuppy.com/:splat"
+status = 301
+force = true
+
+[[redirects]]
 from = "http://www.securitypuppy.com/*"
 to = "https://www.securitypuppy.com/:splat"
 status = 301
