@@ -37,7 +37,10 @@ search_provider: lunr
 disqus:
   shortname: securitypuppy
 
+cloudflare_analytics: 48d359443ea64517a458ac8b413d1ddf
+
 # Build settings
+future: true
 markdown: kramdown
 plugins: # previsously gems
   - jekyll-feed
