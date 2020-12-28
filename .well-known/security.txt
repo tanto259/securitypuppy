@@ -2,7 +2,7 @@
 Hash: SHA256
 
 # securitypuppy.com security.txt
-# Last Updated: May 2, 2019
+# Last Updated: Mon, 28 Dec 2020 12:30:00 +0800
 
 # RFC2142 mailboxes are also available to contact
 
@@ -10,10 +10,12 @@ Contact: https://securitypuppy.com/contact
 Encryption: https://securitypuppy.com/.well-known/openpgpkey/EEB1D3AF8CF1C236.pub.asc
 Preferred-Languages: en, id
 Canonical: https://securitypuppy.com/.well-known/security.txt
+
+Expires: Tue, 31 Dec 2030 23:59:59 +0800
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQRcWEJUvOzTYapGixiRovm9ehfhzAUCXMrnSAAKCRCRovm9ehfh
-zIgAAP0bOAShzZ6suy1hw4IqXprz/DZAlit0KcC3pzDN/9sb5wEA5MKH6MakQVm9
-GqU7baKKu4ugQQ5tHlpL4xyl7xToBwA=
-=EknM
+iHUEARYIAB0WIQRcWEJUvOzTYapGixiRovm9ehfhzAUCX+lggAAKCRCRovm9ehfh
+zOOaAP0dfhL05wOAg7JIgJ0zDmOersqUFVfBiVJGOvT8d62xNgD/Wf8FzddVjdGC
+/KxiTSzW0sXVs1S1xRlkwbPJLhqw4gU=
+=3dLE
 -----END PGP SIGNATURE-----
