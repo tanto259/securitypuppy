@@ -34,6 +34,24 @@ to = "https://securitypuppy.com/about#contact"
 status = 302
 force = true
 
+[[redirects]]
+from = "https://securitypuppy.com/resume/mainframe"
+to = "https://securitypuppy.com/docs/Resume_MF_HartantoArioWIDJAYA.pdf"
+status = 302
+force = true
+
+[[redirects]]
+from = "https://securitypuppy.com/resume/volunteering"
+to = "https://securitypuppy.com/docs/Resume_V_HartantoArioWIDJAYA.pdf"
+status = 302
+force = true
+
+[[redirects]]
+from = "https://securitypuppy.com/resume/softwaredevelopment"
+to = "https://securitypuppy.com/docs/Resume_SD_HartantoArioWIDJAYA.pdf"
+status = 302
+force = true
+
 [[headers]]
 for = "/*"
 [headers.values]
