@@ -57,7 +57,9 @@ for = "/*"
 [headers.values]
 Content-Security-Policy-Report-Only = "default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://securitypuppy.report-uri.com/r/d/csp/wizard"
 Expect-CT = 'max-age=2592000, enforce, report-uri="https://securitypuppy.report-uri.com/r/d/ct/enforce"'
+Feature-Policy = "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
 NEL = '{"report_to": "default", "max-age": 31536000, "include_subdomains": true}'
+Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()"
 Referrer-Policy = "no-referrer"
 Report-To = '{"group": "default", "max-age": 31536000, "endpoints": [{"url": "https://securitypuppy.report-uri.com/a/d/g"}], "include_subdomains": true}'
 Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
