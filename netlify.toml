@@ -35,20 +35,14 @@ status = 302
 force = true
 
 [[redirects]]
-from = "https://securitypuppy.com/resume/mainframe"
-to = "https://securitypuppy.com/docs/Resume_MF_HartantoArioWIDJAYA.pdf"
+from = "https://securitypuppy.com/resume"
+to = "https://securitypuppy.com/docs/Resume_HartantoArioWIDJAYA.pdf"
 status = 302
 force = true
 
 [[redirects]]
-from = "https://securitypuppy.com/resume/volunteering"
-to = "https://securitypuppy.com/docs/Resume_V_HartantoArioWIDJAYA.pdf"
-status = 302
-force = true
-
-[[redirects]]
-from = "https://securitypuppy.com/resume/softwaredevelopment"
-to = "https://securitypuppy.com/docs/Resume_SD_HartantoArioWIDJAYA.pdf"
+from = "https://securitypuppy.com/meeting"
+to = "https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uZJrp7nBNTD1GKeFbVhaPaVj0fOgKGXg9v17XEVKjfgKDCNY90SlHg55gbYXNsSwNwhHJRJ-_"
 status = 302
 force = true
 
