@@ -23,20 +23,14 @@ status = 301
 force = true
 
 [[redirects]]
-from = "https://securitypuppy.com/privacy"
-to = "https://securitypuppy.com/legal#privacy"
-status = 302
-force = true
-
-[[redirects]]
 from = "https://securitypuppy.com/contact"
-to = "https://securitypuppy.com/about#contact"
+to = "https://securitypuppy.com/"
 status = 302
 force = true
 
 [[redirects]]
 from = "https://securitypuppy.com/resume"
-to = "https://securitypuppy.com/docs/Resume_HartantoArioWIDJAYA.pdf"
+to = "https://drive.google.com/file/d/1C_4shVuUIuAYcgN5oI6OXudvIWBYnfl0/view?usp=sharing"
 status = 302
 force = true
 
@@ -65,11 +59,6 @@ X-Permitted-Cross-Domain-Policies = "none"
 X-Powered-By = "Coffee with puppies :)"
 X-Security = "Puppies are awesome!"
 X-XSS-Protection = "1; mode=block; report=https://securitypuppy.report-uri.com/r/d/xss/enforce"
-
-[[headers]]
-for = "/docs/*"
-[headers.values]
-X-Robots-Tag = "noindex, nofollow"
 
 [[headers]]
 for = "/.well-known/openpgpkey/hu/*"

@@ -1,101 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-lang: en-US
-title: Security Puppy
-email: 92CE2?E@oD64FC:EJAFAAJ]4@>
-description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
+title: "securitypuppy"
+description: 
+baseurl: 
 url: "https://securitypuppy.com"
-author:
-  name: Hartanto Ario Widjaya
-  twitter: tanto259
-  picture:
-twitter:
-  username: tanto259
-  card: summary
-twitter_username: tanto259
-github_username: tanto259
-linkedin_username: hartantoariowidjaya
-logo: "/assets/images/logo.png"
-search: true
-search_full_content: false
-search_provider: lunr
 
-disqus:
-  shortname: securitypuppy
-
-cloudflare_analytics: 48d359443ea64517a458ac8b413d1ddf
-
-# Build settings
-future: true
-markdown: kramdown
-plugins: # previsously gems
-  - jekyll-feed
-  - jekyll-seo-tag
+plugins:
   - jekyll-sitemap
-  - jekyll-paginate
-feed:
-  path: atom.xml
+  - jekyll-seo-tag
 
-# Outputting
-permalink: /:title
-excerpt_separator: <!--more-->
-
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
-
-# SEO
 webmaster_verifications:
   google: Iu_035jUE8GBrL2ldo16TJNC3V-nfiMMQZJCRmoZD6I
   yandex: a73334fea2fcfba5
   bing: 0C8DA626DE53E04C6AF918B5FB85176E
 
-# Exclude from processing.
-exclude:
-  - .asset-cache
-  - .bundle
-  - .codeclimate.yml
-  - .editorconfig
-  - .gitattributes
-  - .jekyll-assets-cache
-  - .sass-cache
-  - .scss-lint.yml
-  - CHANGELOG
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - node_modules
-  - Rakefile
-  - README.md
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+cloudflare_analytics: 48d359443ea64517a458ac8b413d1ddf
 
-# Include for processing.
+sass:
+  style: compressed
+
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - pages/access.md
+  - pages/links.md
+
+font-size: small
+
 include:
   - .well-known
-
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
