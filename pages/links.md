@@ -7,6 +7,8 @@ title: Mainframe Links
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
 
+Do note that the links listed here are provided as-is to enhance your experience and allow you to learn more about mainframes. I am not responsible for any content on any externally linked sites. Please follow the links at your own risk.
+
 *Last updated: 25 August 2022*
 
 ### Community
@@ -77,3 +79,11 @@ It is undeniable that we need fresh talent in the mainframe field, this so-calle
 - Student Programs
   * [IBM zSystems Student Hub Badge](https://www.ibm.com/community/z/ibm-z-global-student-hub-badge/)
   * [IBM zSystems Student Ambassadors](https://yourbigyear.com/z-ambassador-powered-by-ibm)
+
+### Swags
+
+There are a few mainframe swags store available online. Check it out and rock your mainframe swags!
+
+- [Seven9s](https://www.etsy.com/shop/Seven9s)
+- [Mainframe Store](https://mainframestore.com/)
+- [Open Mainframe Project Store](https://store.openmainframeproject.org/)
