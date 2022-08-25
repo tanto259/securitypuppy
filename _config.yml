@@ -12,7 +12,7 @@ webmaster_verifications:
   yandex: a73334fea2fcfba5
   bing: 0C8DA626DE53E04C6AF918B5FB85176E
 
-cloudflare_analytics: 48d359443ea64517a458ac8b413d1ddf
+cloudflare_analytics: 4bd9fc8b50c24e85a4947bd11ca2e723
 
 sass:
   style: compressed
