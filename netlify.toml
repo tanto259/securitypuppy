@@ -43,7 +43,10 @@ force = true
 [[headers]]
 for = "/*"
 [headers.values]
-Content-Security-Policy-Report-Only = "default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://securitypuppy.report-uri.com/r/d/csp/wizard"
+Content-Security-Policy = "default-src 'none'; base-uri 'self'; child-src 'none'; connect-src cloudflareinsights.com; font-src 'self' fonts.gstatic.com; form-action 'none'; frame-ancestors 'none'; frame-src 'none'; img-src 'self'; manifest-src 'none'; media-src 'self'; object-src 'none';  prefetch-src 'none'; script-src 'self' static.cloudflareinsights.com; style-src 'self' fonts.googleapis.com; worker-src 'none'; report-uri https://securitypuppy.report-uri.com/r/d/csp/enforce; report-to default" 
+Cross-Origin-Embedder-Policy = 'require-corp; report-to="default"'
+Cross-Origin-Opener-Policy = 'same-origin; report-to="default"'
+Cross-Origin-Resource-Policy = "same-origin"
 Expect-CT = 'max-age=2592000, enforce, report-uri="https://securitypuppy.report-uri.com/r/d/ct/enforce"'
 Feature-Policy = "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
 NEL = '{"report_to": "default", "max-age": 31536000, "include_subdomains": true}'
