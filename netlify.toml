@@ -23,12 +23,6 @@ status = 301
 force = true
 
 [[redirects]]
-from = "https://securitypuppy.com/contact"
-to = "https://securitypuppy.com/"
-status = 302
-force = true
-
-[[redirects]]
 from = "https://securitypuppy.com/resume"
 to = "https://drive.google.com/file/d/1C_4shVuUIuAYcgN5oI6OXudvIWBYnfl0/view?usp=sharing"
 status = 302

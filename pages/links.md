@@ -37,13 +37,13 @@ Community played a huge part in influencing my decision to stay in this field. I
 
 The mainframe field used to be associated with the absence of training resources, but those days are long gone. There are a lot of learning resources - both free and paid - which allow someone to be acquainted with the field. In fact, there are so many free learning resources that I put a dedicated page solely for them.
 
-- [Free Learning Resources]({{ '/training' | relative_url }})
+- [Free Learning Resources]({{ '/training' | absolute_url }})
 - Paid Learning Resources
   * [IBM Training](https://www.ibm.com/training/mainframe/)
   * [Interskill Learning](https://www.interskill.com/)
   * [Institute for Data Center Professionals](https://idcp.marist.edu/zos-program-overview)
   * [Evil Mainframe Penetration Testing](https://evilmainframe.com/)
-- [Mainframe Access]({{ '/access' | relative_url }})
+- [Mainframe Access]({{ '/access' | absolute_url }})
 - Mentorship and Apprenticeship
   * [Open Mainframe Project Mentorship Program](https://www.openmainframeproject.org/projects/mentorship-program)
   * [IBM Z Apprenticeship Program](https://www.franklinapprenticeships.com/job/ibm-z-apprenticeship/)
