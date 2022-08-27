@@ -9,7 +9,7 @@ When I was first introduced to the mainframes back in 2019, resources are all ov
 
 Do note that the links listed here are provided as-is to enhance your experience and allow you to learn more about mainframes. I am not responsible for any content on any externally linked sites. Please follow the links at your own risk.
 
-*Last updated: 25 August 2022*
+*Last updated: 27 August 2022*
 
 ### Community
 
@@ -63,7 +63,6 @@ Attending events would not only allow you to network with others, but also learn
   * [I Am A Mainframer](https://www.openmainframeproject.org/news/podcast)
   * [IBM Z Skills Crowdcast](https://www.crowdcast.io/ibmz)
 - Upcoming or Ongoing Events
-  * [SHARE Columbus 2022](https://www.share.org/Events/SHARE-Columbus-2022)
   * [IBM zDay 2022](https://ibmzday.bemyapp.com/2022)
   * [Open Mainframe Summit 2022](https://events.linuxfoundation.org/open-mainframe-summit/)
   * [Mainframe Technical Exchange 2022](https://mainframe.broadcom.com/mainframe-technical-exchange)
