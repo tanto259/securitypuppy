@@ -48,6 +48,11 @@ The mainframe field used to be associated with the absence of training resources
   * [Open Mainframe Project Mentorship Program](https://www.openmainframeproject.org/projects/mentorship-program)
   * [IBM Z Apprenticeship Program](https://www.franklinapprenticeships.com/job/ibm-z-apprenticeship/)
   * [Broadcom Mainframe Vitality Program](https://mainframe.broadcom.com/education/mainframe-vitality-program)
+- Documentation
+  * [Zikipedia](https://ibmredbooks.github.io/zikipedia/)
+  * [IBM Look@Documentation](https://www-40.ibm.com/servers/resourcelink/svc00100.nsf/pages/look@kc-multi-product?OpenDocument)
+  * [IBM z/OS Internet Library](https://www-40.ibm.com/servers/resourcelink/svc00100.nsf/pages/zosInternetLibrary?OpenDocument)
+  * [IBM Z Redbooks](https://www.redbooks.ibm.com/domains/zsystems)
 
 ### Events
 
