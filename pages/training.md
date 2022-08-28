@@ -9,7 +9,7 @@ The materials listed on this site are all provided for free. However, you will n
 
 Do note that the links listed here are provided as-is to enhance your experience and allow you to learn more about mainframes. I am not responsible for any content on any externally linked sites. Please follow the links at your own risk.
 
-*Last updated: 25 August 2022*
+*Last updated: 28 August 2022*
 
 ### Introductory Materials
 
@@ -67,10 +67,10 @@ Materials in this section are often times specialized in nature, and would be mo
 There are also other materials that may help you in your career, despite not being directly related to mainframes.
 
 - [IBM SkillsBuild for Students](https://skillsbuild.org/students)
-- [IBM SkillsBuild for Job Seekers](https://skillsbuild.org/job-seekers)
+- [IBM SkillsBuild for Adult Learners](https://skillsbuild.org/adult-learners)
 - [Cognitive Class](https://cognitiveclass.ai/)
 - [IBM Security Learning Academy](https://www.securitylearningacademy.com/)
 
 The following material is exclusive for students from accredited academic institutions.
 
-- [IBM Academic Initiative Courses](https://www.ibm.com/academic/technology/badges)
+- [IBM SkillsBuild for College Students](https://skillsbuild.org/college-students)
