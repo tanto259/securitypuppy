@@ -3,7 +3,7 @@ layout: home
 permalink: /
 permalink_name: /home
 title: securitypuppy
-
+last_modified_at: 2022-08-26T00:10:00+08:00
 detail_image: assets/theme_logo.png
 ---
 
@@ -19,4 +19,4 @@ With all of those in mind, I decided to reimagine this site as a place where I c
 
 <br>
 
-Singapore, 25 August 2022<br>Hartanto Ario Widjaya<br>[securitypuppy.com](https://securitypuppy.com) &#124; [hartan.to](https://hartan.to)
+Singapore, 26 August 2022<br>Hartanto Ario Widjaya<br>[securitypuppy.com](https://securitypuppy.com) &#124; [hartan.to](https://hartan.to)

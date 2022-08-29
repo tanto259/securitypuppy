@@ -3,6 +3,7 @@ layout: page
 permalink: /links
 permalink_name: /links
 title: Mainframe Links
+last_modified_at: 2022-08-28T11:20:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.

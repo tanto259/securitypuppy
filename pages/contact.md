@@ -3,6 +3,7 @@ layout: page
 permalink: /contact
 permalink_name: /contact
 title: Contact Me
+last_modified_at: 2022-08-27T14:51:00+08:00
 ---
 
 One thing that I realized after a while in the mainframe community is that people are open to questions. If you have any questions, feel free to reach out to me and I'll gladly answer them.
