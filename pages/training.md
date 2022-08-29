@@ -9,6 +9,8 @@ The materials listed on this site are all provided for free. However, you will n
 
 Do note that the links listed here are provided as-is to enhance your experience and allow you to learn more about mainframes. I am not responsible for any content on any externally linked sites. Please follow the links at your own risk.
 
+If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
+
 *Last updated: 28 August 2022*
 
 ### Introductory Materials
