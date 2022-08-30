@@ -3,7 +3,7 @@ layout: page
 permalink: /links
 permalink_name: /links
 title: Mainframe Links
-last_modified_at: 2022-08-28T11:20:00+08:00
+last_modified_at: 2022-08-31T03:28:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -12,13 +12,15 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 28 August 2022*
+*Last updated: 31 August 2022*
 
 ### Community
 
 Community played a huge part in influencing my decision to stay in this field. I still remember being astonished seeing people with decades of experience helping and welcoming new people in the field. I hope you'll find it the same.
 
 - [Open Mainframe Project](https://openmainframeproject.org/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [COBOL Working Group](https://lists.openmainframeproject.org/g/wg-cobol){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Linux Distributions Working Group](https://wiki.openmainframeproject.org/display/LinuxDistrosWG){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z and LinuxONE Community](https://www.ibm.com/community/z/){:target="_blank"}{:rel="noopener noreferrer"}
   * [New to IBM zSystems](https://ibm.biz/new-to-z){:target="_blank"}{:rel="noopener noreferrer"}
   * [Fans of IBM zSystems](https://ibm.biz/fansofz){:target="_blank"}{:rel="noopener noreferrer"}
@@ -29,6 +31,7 @@ Community played a huge part in influencing my decision to stay in this field. I
   * [Guide Share Europe](https://www.gse.org/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop](http://www.vmworkshop.org/){:target="_blank"}{:rel="noopener noreferrer"}
   * [MainframerZ Meetup](https://www.meetup.com/MainframerZ-London/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Enterprise Computing Community](https://ecc.marist.edu/){:target="_blank"}{:rel="noopener noreferrer"}
 - Social Media
   * [r/mainframe - Reddit](https://www.reddit.com/r/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe Experts - LinkedIn](https://www.linkedin.com/groups/910927/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -65,6 +68,7 @@ Attending events would not only allow you to network with others, but also learn
   * [Terminal Talk](https://www.terminaltalk.net/){:target="_blank"}{:rel="noopener noreferrer"}
   * [I Am A Mainframer](https://www.openmainframeproject.org/news/podcast){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Skills Crowdcast](https://www.crowdcast.io/ibmz){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IntelliMagic zAcademy](https://www.intellimagic.com/zacademy/){:target="_blank"}{:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
   * [IBM zDay 2022](https://ibmzday.bemyapp.com/2022){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2022](https://events.linuxfoundation.org/open-mainframe-summit/){:target="_blank"}{:rel="noopener noreferrer"}
