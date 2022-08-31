@@ -23,7 +23,7 @@ Several training plaforms provide access to a z/OS or Linux on Z instance for tr
 - [LinuxONE Community Cloud](https://developer.ibm.com/articles/get-started-with-ibm-linuxone/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Software Trials](https://www.ibm.com/it-infrastructure/z/software-trials){:target="_blank"}{:rel="noopener noreferrer"}
 
-The following resources is only available for faculty from accredited academic institutions for teaching and research purposes.
+The following resource is only available for faculty from accredited academic institutions for teaching and research purposes.
 
 - [IBM Z Academic Cloud](https://www.ibm.com/academic/topic/ibm-z){:target="_blank"}{:rel="noopener noreferrer"}
 

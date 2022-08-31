@@ -43,7 +43,6 @@ Community played a huge part in influencing my decision to stay in this field. I
 
 The mainframe field used to be associated with the absence of training resources, but those days are long gone. There are a lot of learning resources - both free and paid - which allow someone to be acquainted with the field. In fact, there are so many free learning resources that I put a dedicated page solely for them.
 
-- [Mainframe Open Education](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Free Learning Resources]({{ '/training' | absolute_url }})
 - Paid Learning Resources
   * [IBM Training](https://www.ibm.com/training/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -51,6 +50,7 @@ The mainframe field used to be associated with the absence of training resources
   * [Institute for Data Center Professionals](https://idcp.marist.edu/zos-program-overview){:target="_blank"}{:rel="noopener noreferrer"}
   * [Evil Mainframe Penetration Testing](https://evilmainframe.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Mainframe Access]({{ '/access' | absolute_url }})
+- [Mainframe Open Education](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/){:target="_blank"}{:rel="noopener noreferrer"}
 - Mentorship and Apprenticeship
   * [Open Mainframe Project Mentorship Program](https://www.openmainframeproject.org/projects/mentorship-program){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Apprenticeship Program](https://www.franklinapprenticeships.com/job/ibm-z-apprenticeship/){:target="_blank"}{:rel="noopener noreferrer"}
