@@ -3,7 +3,7 @@ layout: page
 permalink: /links
 permalink_name: /links
 title: Mainframe Links
-last_modified_at: 2022-08-31T03:28:00+08:00
+last_modified_at: 2022-08-31T12:02:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -43,6 +43,7 @@ Community played a huge part in influencing my decision to stay in this field. I
 
 The mainframe field used to be associated with the absence of training resources, but those days are long gone. There are a lot of learning resources - both free and paid - which allow someone to be acquainted with the field. In fact, there are so many free learning resources that I put a dedicated page solely for them.
 
+- [Mainframe Open Education](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Free Learning Resources]({{ '/training' | absolute_url }})
 - Paid Learning Resources
   * [IBM Training](https://www.ibm.com/training/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
