@@ -23,6 +23,10 @@ Several training plaforms provide access to a z/OS or Linux on Z instance for tr
 - [LinuxONE Community Cloud](https://developer.ibm.com/articles/get-started-with-ibm-linuxone/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Software Trials](https://www.ibm.com/it-infrastructure/z/software-trials){:target="_blank"}{:rel="noopener noreferrer"}
 
+The following resources is only available for faculty from accredited academic institutions for teaching and research purposes.
+
+- [IBM Z Academic Cloud](https://www.ibm.com/academic/topic/ibm-z){:target="_blank"}{:rel="noopener noreferrer"}
+
 ### Paid Access
 
 If you have the funds and/or access, there are a few offerings from IBM where you can get access to z/OS. Some of the offerings below provides emulation of z/OS on an x86 machine, while other requires that you be an existing IBM customer or independent software vendor to gain access to the products.
@@ -33,7 +37,6 @@ Amongst the listing, IBM Z Development and Test Environment is the only offering
 - [IBM Wazi as a Service](https://www.ibm.com/cloud/wazi-as-a-service){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Virtual Dev and Test for z/OS](https://www.ibm.com/products/virtual-dev-and-test-zos){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Dallas ISV Center Offerings](https://www.ibm.com/partnerworld/systems/z/dallas-z-isv-center){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Z Academic Cloud](https://www.ibm.com/academic/topic/ibm-z){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Historical Resources
 
