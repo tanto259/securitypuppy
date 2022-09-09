@@ -3,6 +3,7 @@ layout: home
 permalink: /
 permalink_name: /home
 title: securitypuppy
+description: A site filled with mainframe links and resources for everyone.
 last_modified_at: 2022-08-26T00:10:00+08:00
 detail_image: assets/theme_logo.png
 ---

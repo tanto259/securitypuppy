@@ -3,6 +3,7 @@ layout: page
 permalink: /links
 permalink_name: /links
 title: Mainframe Links
+description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
 last_modified_at: 2022-08-31T12:02:00+08:00
 ---
 

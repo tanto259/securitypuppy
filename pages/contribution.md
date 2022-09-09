@@ -3,6 +3,7 @@ layout: page
 permalink: /contribution
 permalink_name: /contribution
 title: Contribution Policy
+description: Interested in contributing back to this site? Check out this policy.
 last_modified_at: 2022-08-30T22:09:00+08:00
 ---
 

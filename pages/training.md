@@ -3,6 +3,7 @@ layout: page
 permalink: /training
 permalink_name: /training
 title: Free Mainframe Training
+description: A collection of links to free mainframe training for everyone to enjoy.
 last_modified_at: 2022-08-28T11:20:00+08:00
 ---
 

@@ -7,6 +7,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+author:
+  twitter: tanto259
+  name: Hartanto Ario Widjaya
+  url: https://hartan.to
+
 webmaster_verifications:
   google: Iu_035jUE8GBrL2ldo16TJNC3V-nfiMMQZJCRmoZD6I
   yandex: a73334fea2fcfba5
