@@ -13,7 +13,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 31 August 2022*
+*Last updated: 09 September 2022*
 
 ### Community
 
@@ -69,6 +69,7 @@ Attending events would not only allow you to network with others, but also learn
 - Podcast and Regular Publications
   * [Terminal Talk](https://www.terminaltalk.net/){:target="_blank"}{:rel="noopener noreferrer"}
   * [I Am A Mainframer](https://www.openmainframeproject.org/news/podcast){:target="_blank"}{:rel="noopener noreferrer"}
+  * [z/Action!](https://techtv.bemyapp.com/#/sponsors/z-action){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Skills Crowdcast](https://www.crowdcast.io/ibmz){:target="_blank"}{:rel="noopener noreferrer"}
   * [IntelliMagic zAcademy](https://www.intellimagic.com/zacademy/){:target="_blank"}{:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
