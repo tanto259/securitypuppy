@@ -14,13 +14,15 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 28 August 2022*
+*Last updated: 09 September 2022*
 
 ### Introductory Materials
 
 For someone new to the field, I would advise you to try out the IBM Z Xplore learning system. It came with access to a live z/OS machine for training, and would serve as the perfect introduction for someone new to mainframe.
 
 - [IBM Z Xplore](https://www.ibm.com/community/z/talent/get-started/){:target="_blank"}{:rel="noopener noreferrer"}
+  * Students? IBM is currently holding the [IBM Z Student Contest](https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/){:target="_blank"}{:rel="noopener noreferrer"}.
+  * Educators? Check out the [Educator Hub](https://ibm.biz/educatorhub){:target="_blank"}{:rel="noopener noreferrer"} to find our more on utilizing IBM Z Xplore in your curriculum.
 - [z/OS Basic Skills on IBM Docs](https://www.ibm.com/docs/en/zos-basic-skills){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS Introduction and Modernization Instructor-Led Training](https://ibm.biz/zOSclass){:target="_blank"}{:rel="noopener noreferrer"}
 - [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course){:target="_blank"}{:rel="noopener noreferrer"}
