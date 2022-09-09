@@ -2,6 +2,7 @@
 layout: page
 permalink: /contact
 permalink_name: /contact
+image: /assets/img/social/contact.png
 title: Contact Me
 description: Reach out to me and let's talk about mainframes.
 last_modified_at: 2022-08-27T14:51:00+08:00

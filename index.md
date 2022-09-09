@@ -2,10 +2,11 @@
 layout: home
 permalink: /
 permalink_name: /home
+image: /assets/img/social/home.png
 title: securitypuppy
 description: A site filled with mainframe links and resources for everyone.
 last_modified_at: 2022-08-26T00:10:00+08:00
-detail_image: assets/theme_logo.png
+detail_image: assets/img/theme_logo.png
 ---
 
 Back in 2019, I was introduced to mainframes, which are high-performance computers designed to process a large number of transactions in real-time. It is used by enterprises to run critical business applications that require high resiliency, security, and agility.

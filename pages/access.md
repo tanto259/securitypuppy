@@ -2,6 +2,7 @@
 layout: page
 permalink: /access
 permalink_name: /access
+image: /assets/img/social/access.png
 title: Mainframe Access
 description: A collection of links to way you can gain access to your own mainframe system.
 last_modified_at: 2022-08-31T12:02:00+08:00
