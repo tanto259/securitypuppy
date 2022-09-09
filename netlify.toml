@@ -64,5 +64,5 @@ Content-Type = "application/octet-stream"
 
 [[headers]]
 for = "/assets/img/social/*"
-[headers.value]
+[headers.values]
 Cross-Origin-Resource-Policy = "cross-origin"
