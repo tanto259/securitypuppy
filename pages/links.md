@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 09 September 2022*
+*Last updated: 16 September 2022*
 
 ### Community
 
@@ -24,8 +24,8 @@ Community played a huge part in influencing my decision to stay in this field. I
   * [COBOL Working Group](https://lists.openmainframeproject.org/g/wg-cobol){:target="_blank"}{:rel="noopener noreferrer"}
   * [Linux Distributions Working Group](https://wiki.openmainframeproject.org/display/LinuxDistrosWG){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z and LinuxONE Community](https://www.ibm.com/community/z/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [New to IBM zSystems](https://ibm.biz/new-to-z){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Fans of IBM zSystems](https://ibm.biz/fansofz){:target="_blank"}{:rel="noopener noreferrer"}
+  * [New to IBM zSystems](https://ibm.biz/newtoibmz){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Fans of IBM zSystems](https://ibm.biz/zSystemsFans){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zSystems Global Student Hub](https://ibm.biz/studenthub){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zSystems Educator Hub](https://ibm.biz/educatorhub){:target="_blank"}{:rel="noopener noreferrer"}
 - User Groups
@@ -71,14 +71,14 @@ Attending events would not only allow you to network with others, but also learn
   * [Terminal Talk](https://www.terminaltalk.net/){:target="_blank"}{:rel="noopener noreferrer"}
   * [I Am A Mainframer](https://www.openmainframeproject.org/news/podcast){:target="_blank"}{:rel="noopener noreferrer"}
   * [z/Action!](https://techtv.bemyapp.com/#/sponsors/z-action){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Skills Crowdcast](https://www.crowdcast.io/ibmz){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM zSkills Crowdcast](https://www.crowdcast.io/ibmz){:target="_blank"}{:rel="noopener noreferrer"}
   * [IntelliMagic zAcademy](https://www.intellimagic.com/zacademy/){:target="_blank"}{:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
-  * [IBM zDay 2022](https://ibmzday.bemyapp.com/2022){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2022](https://events.linuxfoundation.org/open-mainframe-summit/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe Technical Exchange 2022](https://mainframe.broadcom.com/mainframe-technical-exchange){:target="_blank"}{:rel="noopener noreferrer"}
   * [GSE UK Conference 2022](https://conferences.gse.org.uk/2022){:target="_blank"}{:rel="noopener noreferrer"}
 - Past Events with Public Recording
+  * [IBM zDay 2022](https://ibmzday.bemyapp.com/2022){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM z16 Day Special Edition](https://www.ibm.com/community/z/ibm-z16-day-se-2022/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2021](https://www.youtube.com/playlist?list=PL8REpLGaY9QFFr5QMJ0Lh6TkUABpFB1ZB){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2021](https://www.ibm.com/community/z/ibm-z-day-2021/){:target="_blank"}{:rel="noopener noreferrer"}

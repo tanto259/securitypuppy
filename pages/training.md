@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 09 September 2022*
+*Last updated: 16 September 2022*
 
 ### Introductory Materials
 
@@ -33,6 +33,7 @@ For someone new to the field, I would advise you to try out the IBM Z Xplore lea
 - [Zowe Fundamentals - Interskill](https://www.interskill.com/course-catalog/Zowe-Fundamentals.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [Networking for z/OS - Foundations](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/erin-zhang1/2019/12/10/digital-badge-networking-on-zos-foundations){:target="_blank"}{:rel="noopener noreferrer"}
 - [TCP/IP on z/OS Essentials - Level 1](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/erin-zhang1/2022/03/09/badge-tcpip-on-zos-essentials-level-1){:target="_blank"}{:rel="noopener noreferrer"}
+- [Linux on LinuxONE](https://ibm.ent.box.com/notes/1003679359478?s=22rjsfyavvrft6qm2ikbbeq8exvf48s9){:target="_blank"}{:rel="noopener noreferrer"}
 
 There are also some IBM Redbooks video courses. While these does not provide a badge and/or certificate, it is still a valuable resources to learn from experts in the field.
 
