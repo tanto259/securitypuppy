@@ -60,6 +60,7 @@ X-XSS-Protection = "1; mode=block; report=https://securitypuppy.report-uri.com/r
 [[headers]]
 for = "/.well-known/openpgpkey/hu/*"
 [headers.values]
+Access-Control-Allow-Origin = "*"
 Content-Type = "application/octet-stream"
 
 [[headers]]
