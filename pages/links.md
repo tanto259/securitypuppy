@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2022-09-21T21:30:00+08:00
+last_modified_at: 2022-09-23T18:15:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 21 September 2022*
+*Last updated: 23 September 2022*
 
 ### Community
 
@@ -94,7 +94,7 @@ Attending events would not only allow you to network with others, but also learn
 It is undeniable that we need fresh talent in the mainframe field, this so-called "[IT's Best Kept Secret](https://www.youtube.com/watch?v=ZRnnc57tJDI){:target="_blank"}{:rel="noopener noreferrer"}". You can help the field by advocating for it, spreading the news to get more people to learn about this amazing technology.
 
 - General Programs
-  * [IBM zSystems Advocacy Badge](https://www.ibm.com/community/z/ibm-zsystems-advocacy-badge-process/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM zSystems Advocacy Hub](https://www.ibm.com/community/z/advocacy/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Champions](https://developer.ibm.com/champions/){:target="_blank"}{:rel="noopener noreferrer"}
 - Student Programs
   * [IBM zSystems Student Hub Badge](https://www.ibm.com/community/z/ibm-z-global-student-hub-badge/){:target="_blank"}{:rel="noopener noreferrer"}
