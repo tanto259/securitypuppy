@@ -5,7 +5,7 @@ permalink_name: /access
 image: /assets/img/social/access.png
 title: Mainframe Access
 description: A collection of links to way you can gain access to your own mainframe system.
-last_modified_at: 2022-08-31T12:02:00+08:00
+last_modified_at: 2022-09-24T09:00:00+08:00
 ---
 
 One of the biggest challenges with learning mainframes is getting access to one for practice. Nowadays, there are a few ways you can get access to one.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 31 August 2022*
+*Last updated: 24 September 2022*
 
 ### Complementary Access
 
@@ -33,7 +33,7 @@ The following resource is only available for faculty from accredited academic in
 
 If you have the funds and/or access, there are a few offerings from IBM where you can get access to z/OS. Some of the offerings below provides emulation of z/OS on an x86 machine, while other requires that you be an existing IBM customer or independent software vendor to gain access to the products.
 
-Amongst the listing, IBM Z Development and Test Environment is the only offering currently available for the general public - albeit at a high cost.
+Amongst the listing, only IBM Z Development and Test Environment and IBM Wazi as a Service are currently available for the general public - albeit at a high cost.
 
 - [IBM Z Development and Test Environment](https://www.ibm.com/products/z-development-test-environment){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Wazi as a Service](https://www.ibm.com/cloud/wazi-as-a-service){:target="_blank"}{:rel="noopener noreferrer"}
