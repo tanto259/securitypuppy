@@ -25,6 +25,7 @@ highlighter: rouge
 header_pages:
   - index.md
   - pages/links.md
+  - pages/words.md
   - pages/contact.md
 
 font-size: small

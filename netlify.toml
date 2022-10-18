@@ -23,6 +23,12 @@ status = 301
 force = true
 
 [[redirects]]
+from = "https://securitypuppy.com/why-cobol-student-edition"
+to = "https://securitypuppy.com/w/learningcobol"
+status = 301
+force = true
+
+[[redirects]]
 from = "https://securitypuppy.com/resume"
 to = "https://drive.google.com/file/d/1C_4shVuUIuAYcgN5oI6OXudvIWBYnfl0/view?usp=sharing"
 status = 302
