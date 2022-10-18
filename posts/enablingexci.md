@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /w/enablingexci
-permalink_name: /w/enablingexci
+permalink_name: /words/enablingexci
 image: /assets/img/social/home.png
 title: Enabling External CICS Interface Calls
 description: My journey into trying to enable EXCI calls on a CICS TS 5.5 instance.

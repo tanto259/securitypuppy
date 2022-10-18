@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /w/learningcobol
-permalink_name: /w/learningcobol
+permalink_name: /words/learningcobol
 image: /assets/img/social/home.png
 title: Learning COBOL as a Student
 description: Here is why there is no harm in learning COBOL as a student.
