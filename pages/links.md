@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2022-10-18T16:30:00+08:00
+last_modified_at: 2022-10-22T17:20:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 18 October 2022*
+*Last updated: 22 October 2022*
 
 ### Community
 
@@ -35,6 +35,7 @@ Community played a huge part in influencing my decision to stay in this field. I
   * [VM Workshop](http://www.vmworkshop.org/){:target="_blank"}{:rel="noopener noreferrer"}
   * [MainframerZ Meetup](https://www.meetup.com/MainframerZ-London/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Enterprise Computing Community](https://ecc.marist.edu/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [z/OS Open Tools Community](https://zosopentools.github.io/meta/#/){:target="_blank"}{:rel="noopener noreferrer"}
 - Social Media
   * [r/mainframe - Reddit](https://www.reddit.com/r/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe Experts - LinkedIn](https://www.linkedin.com/groups/910927/){:target="_blank"}{:rel="noopener noreferrer"}
