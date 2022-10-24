@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2022-10-22T17:20:00+08:00
+last_modified_at: 2022-10-25T01:00:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 22 October 2022*
+*Last updated: 25 October 2022*
 
 ### Community
 
@@ -64,6 +64,7 @@ The mainframe field used to be associated with the absence of training resources
   * [IBM Look@Documentation](https://www-40.ibm.com/servers/resourcelink/svc00100.nsf/pages/look@kc-multi-product?OpenDocument){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM z/OS Internet Library](https://www-40.ibm.com/servers/resourcelink/svc00100.nsf/pages/zosInternetLibrary?OpenDocument){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Redbooks](https://www.redbooks.ibm.com/domains/zsystems){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Documentation Offline](https://www.ibm.com/docs/en/offline){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Events
 
