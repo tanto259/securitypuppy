@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2022-09-16T07:25:00+08:00
+last_modified_at: 2022-10-27T07:30:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 16 September 2022*
+*Last updated: 27 October 2022*
 
 ### Introductory Materials
 
@@ -59,6 +59,7 @@ If your shop happened to use IBM's DevOps tools, here are several resources whic
 Materials in this section are often times specialized in nature, and would be more advanced than the introductory materials.
 
 - [IMS Education](https://imsdev.github.io/ims-education.html){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM zSystems Cybersecurity Insights](https://ibm.ent.box.com/notes/1042359553004?s=uyllldhzm222ybam5p40mm7m11hnc2ro){:target="_blank"}{:rel="noopener noreferrer"}
 - [Enterprise Knight of IBM Z - Knight-Errant](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/sneha-kanaujia1/2021/06/03/knight-errant-knowledge-badge?CommunityKey=01ddfc0e-8a3c-4873-ad0b-76a90c1adcca){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS TCP/IP Configuration with NCA](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/xiao-xia-mao1/2019/10/17/zos-tcpip-configuration-with-nca-digital-badge){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS Network Security - Foundations](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/flora-gui1/2020/07/06/digital-badge-zos-network-security-foundations){:target="_blank"}{:rel="noopener noreferrer"}
