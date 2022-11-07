@@ -46,6 +46,18 @@ to = "https://calendar.google.com/calendar/appointments/schedules/AcZssZ1uZJrp7n
 status = 302
 force = true
 
+[[redirects]]
+from = "https://securitypuppy.com/.well-known/webfinger"
+to = "https://social.securitypuppy.com/.well-known/webfinger"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://securitypuppy.com/.well-known/nodeinfo"
+to = "https://social.securitypuppy.com/.well-known/nodeinfo"
+status = 301
+force = true
+
 [[headers]]
 for = "/*"
 [headers.values]
