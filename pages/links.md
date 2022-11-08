@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2022-11-03T07:20:00+08:00
+last_modified_at: 2022-11-08T18:40:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 03 November 2022*
+*Last updated: 08 November 2022*
 
 ### Community
 
@@ -80,6 +80,7 @@ Attending events would not only allow you to network with others, but also learn
   * [IBM zSkills Crowdcast](https://www.crowdcast.io/ibmz){:target="_blank"}{:rel="noopener noreferrer"}
   * [IntelliMagic zAcademy](https://www.intellimagic.com/zacademy/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Expert Hour with IBM Champions](https://ibm.webcasts.com/starthere.jsp?ei=1562165&tp_key=2f59feab75){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Linux on IBM zSystems and LinuxONE Webcast](https://www.ibm.com/support/pages/node/6351445){:target="_blank"}{:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
   * [GSE UK Conference 2022](https://conferences.gse.org.uk/2022){:target="_blank"}{:rel="noopener noreferrer"}
   * [SHARE Atlanta 2023](https://www.share.org/Events/SHARE-Atlanta-2023){:target="_blank"}{:rel="noopener noreferrer"}

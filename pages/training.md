@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2022-10-27T07:30:00+08:00
+last_modified_at: 2022-11-08T18:40:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 27 October 2022*
+*Last updated: 08 November 2022*
 
 ### Introductory Materials
 
@@ -70,6 +70,7 @@ Materials in this section are often times specialized in nature, and would be mo
 - [SMP/E for z/OS Workshop](https://ibm.ent.box.com/notes/978258490611?s=t0oq41rbw3oorj8lvddvmaqldf981wm0){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS REXX Programming](https://ibm.ent.box.com/notes/805789531950?s=nezxdyni6rye5xaowla3oxwd5qegekzz){:target="_blank"}{:rel="noopener noreferrer"}
 - [Introducing z/OS UNIX System Services](https://ibm.ent.box.com/notes/855330843990?s=zzt2h9eq4z8dtt0ud8u8dw6ue11jiky0){:target="_blank"}{:rel="noopener noreferrer"}
+- [z/VM Education](https://www.vm.ibm.com/education/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Non-Mainframe Materials
 
