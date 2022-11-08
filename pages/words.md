@@ -17,4 +17,4 @@ As always, if there are any questions, feel free to [/contact]({{ '/contact' | a
 Links are listed in reverse chronological order.
 
 - [Enabling External CICS Interface Calls - 18 October 2022]({{ '/w/enablingexci' | absolute_url }})
-- [Learning COBOL as a Student - 25 December 2022]({{ '/w/learningcobol' | absolute_url }})
+- [Learning COBOL as a Student - 25 December 2020]({{ '/w/learningcobol' | absolute_url }})
