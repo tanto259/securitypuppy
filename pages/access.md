@@ -5,7 +5,7 @@ permalink_name: /access
 image: /assets/img/social/access.png
 title: Mainframe Access
 description: A collection of links to way you can gain access to your own mainframe system.
-last_modified_at: 2022-11-01T10:00:00+08:00
+last_modified_at: 2022-11-21T16:50:00+08:00
 ---
 
 One of the biggest challenges with learning mainframes is getting access to one for practice. Nowadays, there are a few ways you can get access to one.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 01 November 2022*
+*Last updated: 21 November 2022*
 
 ### Complementary Access
 
@@ -23,7 +23,7 @@ Several training plaforms provide access to a z/OS or Linux on Z instance for tr
 - [IBM Z Xplore](https://www.ibm.com/community/z/talent/get-started/){:target="_blank"}{:rel="noopener noreferrer"}
 - [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course){:target="_blank"}{:rel="noopener noreferrer"}
 - [LinuxONE Community Cloud](https://developer.ibm.com/articles/get-started-with-ibm-linuxone/){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Z Software Trials](https://www.ibm.com/it-infrastructure/z/software-trials){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM zSystems Software Trials](https://www.ibm.com/z/trials){:target="_blank"}{:rel="noopener noreferrer"}
 
 The following resource is only available for faculty from accredited academic institutions for teaching and research purposes.
 
