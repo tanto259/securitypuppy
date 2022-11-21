@@ -53,6 +53,12 @@ status = 302
 force = true
 
 [[redirects]]
+from = "https://securitypuppy.com/@hartanto"
+to = "https://social.securitypuppy.com/@hartanto"
+status = 302
+force = true
+
+[[redirects]]
 from = "https://securitypuppy.com/.well-known/webfinger"
 to = "https://social.securitypuppy.com/.well-known/webfinger"
 status = 308
