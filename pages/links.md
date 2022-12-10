@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2022-12-10T00:30:00+08:00
+last_modified_at: 2022-12-10T15:50:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -24,6 +24,8 @@ Community played a huge part in influencing my decision to stay in this field. I
   * [COBOL Working Group](https://lists.openmainframeproject.org/g/wg-cobol){:target="_blank"}{:rel="noopener noreferrer"}
   * [Linux Distributions Working Group](https://wiki.openmainframeproject.org/display/LinuxDistrosWG){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe Modernization Working Group](https://lists.openmainframeproject.org/g/wg-mainframe-modernization){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Community Slack Workspace](https://slack.openmainframeproject.org/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Community Forum](https://community.openmainframeproject.org/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z and LinuxONE Community](https://www.ibm.com/community/z/){:target="_blank"}{:rel="noopener noreferrer"}
   * [New to IBM zSystems](https://ibm.biz/newtoibmz){:target="_blank"}{:rel="noopener noreferrer"}
   * [Fans of IBM zSystems](https://ibm.biz/zSystemsFans){:target="_blank"}{:rel="noopener noreferrer"}
