@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2023-01-18T13:00:00+08:00
+last_modified_at: 2023-03-11T20:00:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing content or funds to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 18 January 2023*
+*Last updated: 11 March 2023*
 
 ### Community
 
@@ -88,14 +88,14 @@ Attending events would not only allow you to network with others, but also learn
   * [Linux on IBM zSystems and LinuxONE Webcast](https://www.ibm.com/support/pages/node/6351445){:target="_blank"}{:rel="noopener noreferrer"}
   * [z/OSMF Community Guild Sessions](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild){:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
-  * [GSE UK Conference 2022](https://conferences.gse.org.uk/2022){:target="_blank"}{:rel="noopener noreferrer"}
-  * [SHARE Atlanta 2023](https://www.share.org/Events/SHARE-Atlanta-2023){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2023](http://vmworkshop.org/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [SHARE New Orleans 2023](https://www.share.org/Events/SHARE-New-Orleans-2023){:target="_blank"}{:rel="noopener noreferrer"}
 - Past Events with Public Recording
   * [Open Mainframe Summit 2022](https://www.youtube.com/playlist?list=PL8REpLGaY9QHyZhlGOQLx8iT9B1LgVoF0){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zDay 2022](https://www.ibm.com/community/z/ibm-zday-2022/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2022](https://www.youtube.com/playlist?list=PL5WWepmN1fC2CuvO323tldEMwGJtu0gpE){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM z16 Day Special Edition](https://www.ibm.com/community/z/ibm-z16-day-se-2022/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GSE UK Conference 2021](https://www.youtube.com/@GSEUKRegion/playlists){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2021](https://www.youtube.com/playlist?list=PL8REpLGaY9QFFr5QMJ0Lh6TkUABpFB1ZB){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2021](https://www.ibm.com/community/z/ibm-z-day-2021/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2021](https://www.youtube.com/playlist?list=PL5WWepmN1fC2tQJJh18KeGCZ1xkaNVaUc){:target="_blank"}{:rel="noopener noreferrer"}
