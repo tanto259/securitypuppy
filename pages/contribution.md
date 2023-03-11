@@ -5,7 +5,7 @@ permalink_name: /contribution
 image: /assets/img/social/contribution.png
 title: Contribution Policy
 description: Interested in contributing back to this site? Check out this policy.
-last_modified_at: 2023-02-11T17:20:00+08:00
+last_modified_at: 2023-03-11T20:30:00+08:00
 ---
 
 Thank you for your interest in contributing back to this site!
@@ -28,11 +28,4 @@ I endeavour to keep the content here free-of-charge for everyone while also adhe
 - I will not put any kind of advertisements or sponsorships in this site.
 - I will not use affiliate links in anything listed in this site.
 
-If you feel that the content in this site has helped you in your journey and add value to your education, please consider donating to any of the following charity:
-
-- [UN World Food Programme](https://donatenow.wfp.org/wfp/)
-- [UNICEF](https://help.unicef.org/)
-- [Médecins Sans Frontières](https://www.msf.org/donate)
-- [TOUCH Community Service](https://www.touch.org.sg/donation)
-- [MINDS](https://www.minds.org.sg/donation/)
-- [Singapore Cancer Society](https://www.singaporecancersociety.org.sg/get-involved/donate.html)
+If you feel that the content in this site has helped you in your journey and add value to your education, please consider donating to either the [Singapore Heart Foundation](https://www.giving.sg/singapore-heart-foundation){:target="_blank"}{:rel="noopener noreferrer"} or the [World Heart Federation](https://world-heart-federation.org/donations/){:target="_blank"}{:rel="noopener noreferrer"}.
