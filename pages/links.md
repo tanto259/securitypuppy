@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2023-03-11T20:00:00+08:00
+last_modified_at: 2023-04-06T22:45:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 11 March 2023*
+*Last updated: 06 April 2023*
 
 ### Community
 
@@ -90,6 +90,7 @@ Attending events would not only allow you to network with others, but also learn
 - Upcoming or Ongoing Events
   * [VM Workshop 2023](http://vmworkshop.org/){:target="_blank"}{:rel="noopener noreferrer"}
   * [SHARE New Orleans 2023](https://www.share.org/Events/SHARE-New-Orleans-2023){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Mainframe Technical Exchange 2023](https://mainframe.broadcom.com/mainframe_technical_exchange){:target="_blank"}{:rel="noopener noreferrer"}
 - Past Events with Public Recording
   * [Open Mainframe Summit 2022](https://www.youtube.com/playlist?list=PL8REpLGaY9QHyZhlGOQLx8iT9B1LgVoF0){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zDay 2022](https://www.ibm.com/community/z/ibm-zday-2022/){:target="_blank"}{:rel="noopener noreferrer"}
