@@ -70,6 +70,12 @@ to = "https://social.securitypuppy.com/.well-known/nodeinfo"
 status = 308
 force = true
 
+[[redirects]]
+from = "https://securitypuppy.com/.well-known/host-meta"
+to = "https://social.securitypuppy.com/.well-known/host-meta"
+status = 308
+force = true
+
 [[headers]]
 for = "/*"
 [headers.values]
