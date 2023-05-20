@@ -70,11 +70,10 @@ Materials in this section are often times specialized in nature, and would be mo
 - [IBM Z Common Data Provider V2.1](https://www.credly.com/org/ibm/badge/ibm-z-common-data-provider-v2-1-foundations){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS System Services Structure](https://www.credly.com/org/ibm/badge/z-os-system-services-structure){:target="_blank"}{:rel="noopener noreferrer"}
 - [SMP/E for z/OS Workshop](https://www.credly.com/org/ibm/badge/smp-e-for-z-os-workshop){:target="_blank"}{:rel="noopener noreferrer"}
-{:rel="noopener noreferrer"}
 - [Introducing z/OS UNIX System Services](https://www.credly.com/org/ibm/badge/introducing-z-os-unix-system-services){:target="_blank"}{:rel="noopener noreferrer"}
 - [GDPS Fundamentals](https://www.credly.com/org/ibm/badge/gdps-fundamentals){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS REXX Programming](https://www.credly.com/org/ibm/badge/z-os-rexx-programming){:target="_blank"}{:rel="noopener noreferrer"}
-- [z/Architecture Assembler Language - Part I: The Basics](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-1-the-basics){:target="_blank"}
+- [z/Architecture Assembler Language - Part I: The Basics](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-1-the-basics){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/VM Education](https://www.vm.ibm.com/education/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM zSystems Software Trials](https://www.ibm.com/z/trials){:target="_blank"}{:rel="noopener noreferrer"}
 
