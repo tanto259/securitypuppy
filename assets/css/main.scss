@@ -52,9 +52,10 @@ b, strong { color: var(--main-color); }
 body.large { line-height: 2em; font-size: 1em; }
 
 /* LAYOUT */
+.disclaimer { border-top: dashed 1px rgba(219, 219, 219, 0.9); text-align: center; margin-top: 25px; }
 .container { margin-right: auto;  margin-left: auto; }
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; }
-footer { color: var(--text-color);  border-top: dashed 1px rgba(219, 219, 219, 0.9);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
+footer { color: var(--text-color);  border-top: dashed 1px rgba(219, 219, 219, 0.9);  margin: auto auto 15px;  padding-top: 10px;  text-align: right; }
 header { margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }
 footer { margin-bottom: 20px; }
