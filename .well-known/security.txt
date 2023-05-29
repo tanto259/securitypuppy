@@ -1,21 +1,26 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA384
 
 # securitypuppy.com security.txt
-# Last Updated: Mon, 28 Dec 2020 12:30:00 +0800
+# Last Updated: Mon, 29 May 2023 21:20:00 +0800
 
 # RFC2142 mailboxes are also available to contact
 
 Contact: https://securitypuppy.com/contact
-Encryption: https://securitypuppy.com/.well-known/openpgpkey/EEB1D3AF8CF1C236.pub.asc
+Encryption: https://securitypuppy.com/.well-known/openpgpkey/B25ECFC69E1033FA.pub.asc
+Encryption: https://securitypuppy.com/.well-known/openpgpkey/2FB77A8F827D7A42.pub.asc
 Preferred-Languages: en, id
 Canonical: https://securitypuppy.com/.well-known/security.txt
 
 Expires: Tue, 31 Dec 2030 23:59:59 +0800
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQRcWEJUvOzTYapGixiRovm9ehfhzAUCX+lggAAKCRCRovm9ehfh
-zOOaAP0dfhL05wOAg7JIgJ0zDmOersqUFVfBiVJGOvT8d62xNgD/Wf8FzddVjdGC
-/KxiTSzW0sXVs1S1xRlkwbPJLhqw4gU=
-=3dLE
+iJUEARMJAB0WIQTzelX/FxPqr91O98GyXs/GnhAz+gUCZHSmjAAKCRCyXs/GnhAz
++vJsAX4hb9QnN+euCvUUFzgy5YPaijJnE/rqbZdcNNEoTw8Dri02ixRZtsGmW9eX
+AF+iTKQBgIqmfcjLYrDB4vFyePDYGRTy1a9tbQ8gDlQRE21UsJQCBif7DxzPHP2N
+c0JdUe3L8YiVBAETCQAdFiEEw2Hrrw0+X8Dl7VAYL7d6j4J9ekIFAmR0ppAACgkQ
+L7d6j4J9ekKgZwF9HrpwY4eQAiw/rIBPNIE1eXKicHqgp5qGI9gpwlmHE5ccfavC
+qIiXAyjGX+1EeCxEAYCCAVLgWA8+YcB47DhJ/Eer3LbkqSeTdSCn6f7ZXsME7doo
+uBy9jAw2YjU/GLBUp5Y=
+=bIK6
 -----END PGP SIGNATURE-----

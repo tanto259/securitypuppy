@@ -16,7 +16,16 @@ My email address is listed below. Just send me an email and I'll get back to you
 
 <a data="92CE2?E@oD64FC:EJAFAAJ]4@>" class="contact-button javascript-required">Please enable Javascript to see email.</a>
 
-You can also send encrypted emails using [my OpenPGP public key](https://securitypuppy.com/.well-known/openpgpkey/EEB1D3AF8CF1C236.pub.asc) with a fingerprint of EEB1 D3AF 8CF1 C236. Please include your own public key if you want any replies to be encrypted.
+You can also send encrypted emails using either or both of my OpenPGP public keys. Please include your own public key if you want any replies to be encrypted.
+
+### OpenPGP Keys
+
+I currently have 2 separate OpenPGP keys, both of which are generated on security keys. 
+
+- [Key A: B25E CFC6 9E10 33FA](https://securitypuppy.com/.well-known/openpgpkey/B25ECFC69E1033FA.pub.asc)
+- [Key B: 2FB7 7A8F 827D 7A42](https://securitypuppy.com/.well-known/openpgpkey/2FB77A8F827D7A42.pub.asc)
+
+You can also perform a Web Key Directory lookup on the email address above to get the two keys imported.
 
 ### ActivityPub Server
 
