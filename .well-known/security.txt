@@ -2,7 +2,7 @@
 Hash: SHA384
 
 # securitypuppy.com security.txt
-# Last Updated: Mon, 29 May 2023 21:20:00 +0800
+# Last Updated: 01 Jun 2023
 
 # RFC2142 mailboxes are also available to contact
 
@@ -10,17 +10,17 @@ Contact: https://securitypuppy.com/contact
 Encryption: https://securitypuppy.com/.well-known/openpgpkey/B25ECFC69E1033FA.pub.asc
 Encryption: https://securitypuppy.com/.well-known/openpgpkey/2FB77A8F827D7A42.pub.asc
 Preferred-Languages: en, id
-Canonical: https://securitypuppy.com/.well-known/security.txt
 
-Expires: Tue, 31 Dec 2030 23:59:59 +0800
+Expires: 2030-12-31T23:59:00.000Z
+Canonical: https://securitypuppy.com/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iJUEARMJAB0WIQTzelX/FxPqr91O98GyXs/GnhAz+gUCZHSmjAAKCRCyXs/GnhAz
-+vJsAX4hb9QnN+euCvUUFzgy5YPaijJnE/rqbZdcNNEoTw8Dri02ixRZtsGmW9eX
-AF+iTKQBgIqmfcjLYrDB4vFyePDYGRTy1a9tbQ8gDlQRE21UsJQCBif7DxzPHP2N
-c0JdUe3L8YiVBAETCQAdFiEEw2Hrrw0+X8Dl7VAYL7d6j4J9ekIFAmR0ppAACgkQ
-L7d6j4J9ekKgZwF9HrpwY4eQAiw/rIBPNIE1eXKicHqgp5qGI9gpwlmHE5ccfavC
-qIiXAyjGX+1EeCxEAYCCAVLgWA8+YcB47DhJ/Eer3LbkqSeTdSCn6f7ZXsME7doo
-uBy9jAw2YjU/GLBUp5Y=
-=bIK6
+iJUEARMJAB0WIQTzelX/FxPqr91O98GyXs/GnhAz+gUCZHihNwAKCRCyXs/GnhAz
++p04AX90xMQ1KN877DHD3lBDQJ6jzYeON4XbQAhUsZ5q4W1Ck7haGHZ06JvK3gQd
+ApNaiGoBf1/+lghvE7+eY149rJO7MiRcLUkiklgEWJfWoSzBA6uDx6k2u61h+wCh
+wM20vTJyS4iVBAETCQAdFiEEw2Hrrw0+X8Dl7VAYL7d6j4J9ekIFAmR4oTsACgkQ
+L7d6j4J9ekKdtAGAs1gEecTBtP83+USH1BivqLF9Ld0FUQ4bm8BNn0VyPaoN2GiJ
+3Jj3pf4Ge0TvBohyAX9WnzHKvOBZUH60FdXx7RD2tgR3W7CY9upfySKVy/RC6boA
+uWzDdmcPnZNont1RZXc=
+=glyR
 -----END PGP SIGNATURE-----
