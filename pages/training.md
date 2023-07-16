@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2023-05-20T21:20:00+08:00
+last_modified_at: 2023-07-16T21:00:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 20 May 2023*
+*Last updated: 16 July 2023*
 
 ### Introductory Materials
 
@@ -53,6 +53,7 @@ If your shop happened to use IBM's DevOps tools, here are several resources whic
 - [IBM Dependency Based Build](https://ibm.github.io/mainframe-downloads/Training/dbb-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Application Discovery & Delivery Intelligence](https://ibm.github.io/mainframe-downloads/Training/addi-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Wazi Developer Fundamentals](https://ibm.github.io/mainframe-downloads/Training/wazideveloper-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM zDevOps Testing Fundamentals](https://ibm.github.io/mainframe-downloads/Training/zdevops-testing-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Specialized Materials
 

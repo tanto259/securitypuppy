@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2023-07-16T20:15:00+08:00
+last_modified_at: 2023-07-16T21:00:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -38,6 +38,7 @@ Community played a huge part in influencing my decision to stay in this field. I
   * [MainframerZ Meetup](https://www.meetup.com/MainframerZ-London/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Enterprise Computing Community](https://ecc.marist.edu/){:target="_blank"}{:rel="noopener noreferrer"}
   * [z/OS Open Tools Community](https://zosopentools.github.io/meta/#/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Customer Council](https://ibm-zcouncil.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - Social Media
   * [r/mainframe - Reddit](https://www.reddit.com/r/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe Experts - LinkedIn](https://www.linkedin.com/groups/910927/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -54,20 +55,20 @@ The mainframe field used to be associated with the absence of training resources
   * [IBM Training](https://www.ibm.com/training/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Interskill Learning](https://www.interskill.com/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Institute for Data Center Professionals](https://idcp.marist.edu/zos-program-overview){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Evil Mainframe Penetration Testing](https://evilmainframe.com/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Ethical Mainframe Hacking](https://evilmainframe.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Mainframe Access]({{ '/access' | absolute_url }})
 - [Mainframe Open Education](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/){:target="_blank"}{:rel="noopener noreferrer"}
 - Mentorship and Apprenticeship
-  * [Open Mainframe Project Mentorship Program](https://www.openmainframeproject.org/projects/mentorship-program){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Apprenticeship Program](https://www.franklinapprenticeships.com/job/ibm-z-apprenticeship/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Open Mainframe Project Mentorship Program](https://openmainframeproject.org/community/mentorship-program/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Apprenticeship Program](https://www.franklinapprenticeships.com/ibm-z-apprenticeship-program/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Broadcom Mainframe Vitality Program](https://mainframe.broadcom.com/education/mainframe-vitality-program){:target="_blank"}{:rel="noopener noreferrer"}
 - Documentation
   * [Zikipedia](https://ibmredbooks.github.io/zikipedia/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Look@Documentation](https://www-40.ibm.com/servers/resourcelink/svc00100.nsf/pages/look@kc-multi-product?OpenDocument){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM z/OS Internet Library](https://www-40.ibm.com/servers/resourcelink/svc00100.nsf/pages/zosInternetLibrary?OpenDocument){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Redbooks](https://www.redbooks.ibm.com/domains/zsystems){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM zSystems Redbooks](https://www.redbooks.ibm.com/domains/zsystems){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Hot Topics](https://zos-hot-topics.com/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [z/OSMF One Stop Hub](https://ibm.github.io/zOSMF/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM z/OSMF One Stop Hub](https://ibm.github.io/zOSMF/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe DEV](https://ibm.github.io/mainframe-downloads/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Documentation Offline](https://www.ibm.com/docs/en/offline){:target="_blank"}{:rel="noopener noreferrer"}
 
@@ -77,11 +78,10 @@ Attending events would not only allow you to network with others, but also learn
 
 - Podcast and Regular Publications
   * [Terminal Talk](https://www.terminaltalk.net/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [I Am A Mainframer](https://www.openmainframeproject.org/news/podcast){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Mainframe, Performance, Topics](https://anchor.fm/marna-walle){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Application Platform Talks](https://developer.ibm.com/podcasts/z-application-platform-talks/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [I Am A Mainframer](https://openmainframeproject.org/news/i-am-a-mainframer-podcast/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Mainframe, Performance, Topics](https://podcasters.spotify.com/pod/show/marna-walle){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z DevOps Talks](https://developer.ibm.com/podcasts/z_devops_talks_podcast/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [z/Action!](https://techtv.bemyapp.com/#/sponsors/z-action){:target="_blank"}{:rel="noopener noreferrer"}
+  * [z/Action! Podcast](https://community.ibm.com/community/user/ibmz-and-linuxone/viewdocument/zaction-podcast){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zSkills Crowdcast](https://www.crowdcast.io/ibmz){:target="_blank"}{:rel="noopener noreferrer"}
   * [IntelliMagic zAcademy](https://www.intellimagic.com/zacademy/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Expert Hour with IBM Champions](https://ibm.webcasts.com/starthere.jsp?ei=1562165&tp_key=2f59feab75){:target="_blank"}{:rel="noopener noreferrer"}
@@ -122,7 +122,7 @@ It is undeniable that we need fresh talent in the mainframe field, this so-calle
   * [Open Mainframe Project Ambassadors](https://tac.openmainframeproject.org/programs/ambassadors.html){:target="_blank"}{:rel="noopener noreferrer"}
 - Student Programs
   * [IBM zSystems Student Hub Badge](https://www.ibm.com/community/z/ibm-z-global-student-hub-badge/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM zSystems Student Ambassadors](https://yourbigyear.com/z-ambassador-powered-by-ibm){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM zSystems Student Ambassadors](https://yourbigyear.com/ibm-zsystems-ambassador-program){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Swags
 

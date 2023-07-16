@@ -5,7 +5,7 @@ permalink_name: /access
 image: /assets/img/social/access.png
 title: Mainframe Access
 description: A collection of links to way you can gain access to your own mainframe system.
-last_modified_at: 2023-02-11T17:20:00+08:00
+last_modified_at: 2023-07-16T21:00:00+08:00
 ---
 
 One of the biggest challenges with learning mainframes is getting access to one for practice. Nowadays, there are a few ways you can get access to one.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 11 February 2023*
+*Last updated: 16 July 2023*
 
 ### Complementary Access
 
@@ -39,9 +39,8 @@ Amongst the listing, only IBM Z Development and Test Environment and IBM Wazi as
 - [IBM Wazi as a Service](https://www.ibm.com/cloud/wazi-as-a-service){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Virtual Dev and Test for z/OS](https://www.ibm.com/products/virtual-dev-and-test-zos){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z and Cloud Modernization Stack](https://www.ibm.com/products/z-and-cloud-modernization-stack){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Z Dallas ISV Center Offerings](https://www.ibm.com/partnerworld/systems/z/dallas-z-isv-center){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM zSystems On-Premises Development Program](https://www.ibm.com/partnerworld/systems/z/ibm-z-developer-offerings){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Z Open Source Community Program](https://www.ibm.com/partnerworld/systems/z/open-source-community-program){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Z Dallas ISV Center Offerings](http://dtsc.dfw.ibm.com/){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM zSystems On-Premises Development Program](https://zopd.dfw.ibm.com/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Historical Resources
 
