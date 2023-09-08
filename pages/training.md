@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2023-07-16T21:00:00+08:00
+last_modified_at: 2023-09-08T20:00:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 16 July 2023*
+*Last updated: 08 September 2023*
 
 ### Introductory Materials
 
@@ -66,6 +66,7 @@ Materials in this section are often times specialized in nature, and would be mo
 - [z/OS TCP/IP Configuration with NCA](https://www.credly.com/org/ibm/badge/z-os-tcp-ip-configuration-with-nca){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS Network Security - Foundations](https://www.credly.com/org/ibm/badge/z-os-network-security-foundations){:target="_blank"}{:rel="noopener noreferrer"}
 - [zERT Policy Enforcement Configuration with NCA](https://www.credly.com/org/ibm/badge/zert-policy-enforcement-configuration-with-nca){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Z System Automation - Integration by System Programmer](https://www.credly.com/org/ibm/badge/ibm-z-system-automation-integration-by-system-progr){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Operational Log and Data Analytics - Foundations](https://www.credly.com/org/ibm/badge/ibm-z-operational-log-and-data-analytics-foundation){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Operational Log and Data Analytics - Intermediate](https://www.credly.com/org/ibm/badge/ibm-z-operational-log-and-data-analytics){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Common Data Provider V2.1](https://www.credly.com/org/ibm/badge/ibm-z-common-data-provider-v2-1-foundations){:target="_blank"}{:rel="noopener noreferrer"}
