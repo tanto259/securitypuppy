@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2023-08-19T08:10:00+08:00
+last_modified_at: 2023-09-09T08:30:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 19 August 2023*
+*Last updated: 09 September 2023*
 
 ### Community
 
@@ -91,9 +91,9 @@ Attending events would not only allow you to network with others, but also learn
   * [z/OSMF Community Guild Sessions](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild){:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
   * [IBM TechXChange Conference 2023](https://www.ibm.com/community/ibm-techxchange-conference/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Day 2023](https://ibmzday.bemyapp.com/2023){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2023 - Las Vegas](https://openmainframeproject.org/event/open-mainframe-summit-las-vegas/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe Technical Exchange 2023](https://mainframe.broadcom.com/mainframe_technical_exchange){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Day 2023](https://ibmzday.bemyapp.com/2023){:target="_blank"}{:rel="noopener noreferrer"}
   * [GSE UK Conference 2023](https://conferences.gse.org.uk/2023){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2023 - New York](https://openmainframeproject.org/event/open-mainframe-summit-new-york/){:target="_blank"}{:rel="noopener noreferrer"}
 - Past Events with Public Recording
