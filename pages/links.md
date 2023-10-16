@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2023-10-16T20:00:00+08:00
+last_modified_at: 2023-10-16T20:05:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -92,9 +92,6 @@ Attending events would not only allow you to network with others, but also learn
   * [Linux on IBM zSystems and LinuxONE Webcast](https://www.ibm.com/support/pages/node/6351445){:target="_blank"}{:rel="noopener noreferrer"}
   * [z/OSMF Community Guild Sessions](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild){:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
-  * [IBM TechXChange Conference 2023](https://www.ibm.com/community/ibm-techxchange-conference/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Open Mainframe Summit 2023 - Las Vegas](https://openmainframeproject.org/event/open-mainframe-summit-las-vegas/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Mainframe Technical Exchange 2023](https://mainframe.broadcom.com/mainframe_technical_exchange){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2023](https://ibmzday.bemyapp.com/2023){:target="_blank"}{:rel="noopener noreferrer"}
   * [GSE UK Conference 2023](https://conferences.gse.org.uk/2023){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2023 - New York](https://openmainframeproject.org/event/open-mainframe-summit-new-york/){:target="_blank"}{:rel="noopener noreferrer"}
