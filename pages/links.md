@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2023-09-09T08:30:00+08:00
+last_modified_at: 2023-10-16T20:00:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 09 September 2023*
+*Last updated: 16 October 2023*
 
 ### Community
 
@@ -57,6 +57,7 @@ The mainframe field used to be associated with the absence of training resources
   * [Interskill Learning](https://www.interskill.com/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Institute for Data Center Professionals](https://idcp.marist.edu/zos-program-overview){:target="_blank"}{:rel="noopener noreferrer"}
   * [Ethical Mainframe Hacking](https://evilmainframe.com/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [RACF Training by RSH Consulting](https://www.rshconsulting.com/training.htm){:target="_blank"}{:rel="noopener noreferrer"}
 - [Mainframe Access]({{ '/access' | absolute_url }})
 - [Mainframe Open Education](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/){:target="_blank"}{:rel="noopener noreferrer"}
 - Mentorship and Apprenticeship
@@ -73,6 +74,7 @@ The mainframe field used to be associated with the absence of training resources
   * [IBM z/OSMF One Stop Hub](https://ibm.github.io/zOSMF/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe DEV](https://ibm.github.io/mainframe-downloads/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Documentation Offline](https://www.ibm.com/docs/en/offline){:target="_blank"}{:rel="noopener noreferrer"}
+  * [RACF Information by RSH Consulting](https://www.rshconsulting.com/racfres.htm){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Events
 
