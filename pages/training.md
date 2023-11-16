@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2023-09-08T20:00:00+08:00
+last_modified_at: 2023-11-17T06:20:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 08 September 2023*
+*Last updated: 17 November 2023*
 
 ### Introductory Materials
 
@@ -75,7 +75,8 @@ Materials in this section are often times specialized in nature, and would be mo
 - [Introducing z/OS UNIX System Services](https://www.credly.com/org/ibm/badge/introducing-z-os-unix-system-services){:target="_blank"}{:rel="noopener noreferrer"}
 - [GDPS Fundamentals](https://www.credly.com/org/ibm/badge/gdps-fundamentals){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS REXX Programming](https://www.credly.com/org/ibm/badge/z-os-rexx-programming){:target="_blank"}{:rel="noopener noreferrer"}
-- [z/Architecture Assembler Language - Part I: The Basics](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-1-the-basics){:target="_blank"}{:rel="noopener noreferrer"}
+- [z/Architecture Assembler Language - Part 1: The Basics](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-1-the-basics){:target="_blank"}{:rel="noopener noreferrer"}
+- [z/Architecture Assembler Language - Part 2: Machine Instructions](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-2-machine-in){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/VM Education](https://www.vm.ibm.com/education/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM zSystems Software Trials](https://www.ibm.com/z/trials){:target="_blank"}{:rel="noopener noreferrer"}
 
