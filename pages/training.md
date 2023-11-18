@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2023-11-17T06:20:00+08:00
+last_modified_at: 2023-11-18T15:00:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 17 November 2023*
+*Last updated: 18 November 2023*
 
 ### Introductory Materials
 
@@ -52,7 +52,7 @@ If your shop happened to use IBM's DevOps tools, here are several resources whic
 - [IBM Developer for z/OS](https://ibm.github.io/mainframe-downloads/DevOps_Acceleration_Program/idz-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Dependency Based Build](https://ibm.github.io/mainframe-downloads/Training/dbb-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Application Discovery & Delivery Intelligence](https://ibm.github.io/mainframe-downloads/Training/addi-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Wazi Developer Fundamentals](https://ibm.github.io/mainframe-downloads/Training/wazideveloper-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
+- [Cloud Native Development with IBM Z and Cloud Modernization Stack Fundamentals](https://ibm.github.io/mainframe-downloads/Training/wazideveloper-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM zDevOps Testing Fundamentals](https://ibm.github.io/mainframe-downloads/Training/zdevops-testing-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Specialized Materials
@@ -86,8 +86,12 @@ There are also other materials that may help you in your career, despite not bei
 
 - [IBM SkillsBuild for Students](https://skillsbuild.org/students){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM SkillsBuild for Adult Learners](https://skillsbuild.org/adult-learners){:target="_blank"}{:rel="noopener noreferrer"}
-- [Cognitive Class](https://cognitiveclass.ai/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Security Learning Academy](https://www.securitylearningacademy.com/){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Quantum Learning](https://learning.quantum-computing.ibm.com/catalog){:target="_blank"}{:rel="noopener noreferrer"}
+- [Cognitive Class](https://cognitiveclass.ai/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Coursera](https://www.coursera.org/){:target="_blank"}{:rel="noopener noreferrer"}
+- [edX](https://www.edx.org/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Udemy](https://www.udemy.com/){:target="_blank"}{:rel="noopener noreferrer"}
 
 The following material is exclusive for students from accredited academic institutions.
 
