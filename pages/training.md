@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2023-11-18T15:00:00+08:00
+last_modified_at: 2023-12-19T05:30:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 18 November 2023*
+*Last updated: 19 December 2023*
 
 ### Introductory Materials
 
@@ -54,6 +54,7 @@ If your shop happened to use IBM's DevOps tools, here are several resources whic
 - [IBM Application Discovery & Delivery Intelligence](https://ibm.github.io/mainframe-downloads/Training/addi-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [Cloud Native Development with IBM Z and Cloud Modernization Stack Fundamentals](https://ibm.github.io/mainframe-downloads/Training/wazideveloper-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM zDevOps Testing Fundamentals](https://ibm.github.io/mainframe-downloads/Training/zdevops-testing-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
+- [Automatic Binary Optimizer for z/OS Essentials](https://www.credly.com/org/ibm/badge/automatic-binary-optimizer-for-z-os-essentials-v2){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Specialized Materials
 
@@ -75,6 +76,7 @@ Materials in this section are often times specialized in nature, and would be mo
 - [Introducing z/OS UNIX System Services](https://www.credly.com/org/ibm/badge/introducing-z-os-unix-system-services){:target="_blank"}{:rel="noopener noreferrer"}
 - [GDPS Fundamentals](https://www.credly.com/org/ibm/badge/gdps-fundamentals){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS REXX Programming](https://www.credly.com/org/ibm/badge/z-os-rexx-programming){:target="_blank"}{:rel="noopener noreferrer"}
+- [Introduction to the PL/I Programming Language](https://www.credly.com/org/ibm/badge/introduction-to-the-pl-i-programming-language){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/Architecture Assembler Language - Part 1: The Basics](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-1-the-basics){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/Architecture Assembler Language - Part 2: Machine Instructions](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-2-machine-in){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/VM Education](https://www.vm.ibm.com/education/){:target="_blank"}{:rel="noopener noreferrer"}
