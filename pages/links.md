@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2023-11-12T20:00:00+08:00
+last_modified_at: 2024-02-17T07:50:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 12 November 2023*
+*Last updated: 17 February 2024*
 
 ### Community
 
@@ -91,7 +91,9 @@ Attending events would not only allow you to network with others, but also learn
   * [Linux on IBM zSystems and LinuxONE Webcast](https://www.ibm.com/support/pages/node/6351445){:target="_blank"}{:rel="noopener noreferrer"}
   * [z/OSMF Community Guild Sessions](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild){:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
+  * [GSE Conference 2024](https://www.mainframemodernization.tech/en/){:target="_blank"}{:rel="noopener noreferrer"}
   * [SHARE Orlando 2024](https://www.share.org/Events/SHARE-Orlando-2024){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GSE UK Conference 2024](https://conferences.gse.org.uk/2024V){:target="_blank"}{:rel="noopener noreferrer"}
 - Past Events with Public Recording
   * [Open Mainframe Summit 2023 - New York](https://www.youtube.com/playlist?list=PL8REpLGaY9QGjLauNkCvpLR-hsSOeVT8w){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2023](https://ibmzday.bemyapp.com/2023){:target="_blank"}{:rel="noopener noreferrer"}
@@ -129,5 +131,6 @@ It is undeniable that we need fresh talent in the mainframe field, this so-calle
 There are a few mainframe swags store available online. Check it out and rock your mainframe swags!
 
 - [Seven9s](https://www.etsy.com/shop/Seven9s){:target="_blank"}{:rel="noopener noreferrer"}
+- [Mainframe Style](https://mainframe-style.printify.me/products){:target="_blank"}{:rel="noopener noreferrer"}
 - [Mainframe Store](https://mainframestore.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Open Mainframe Project Store](https://store.openmainframeproject.org/){:target="_blank"}{:rel="noopener noreferrer"}
