@@ -5,7 +5,7 @@ permalink_name: /contact
 image: /assets/img/social/contact.png
 title: Contact Me
 description: Reach out to me and let's talk about mainframes.
-last_modified_at: 2023-05-30T20:00:00+08:00
+last_modified_at: 2024-02-27T20:00:00+08:00
 ---
 
 One thing that I realized after a while in the mainframe community is that people are open to questions. If you have any questions, feel free to reach out to me and I'll gladly answer them.
@@ -39,6 +39,6 @@ Do note that GoToSocial is still in alpha, there might be bugs and missing featu
 
 Alternatively, snail mail is also an option. Do note that it may take a while for me to get back to you. Please include a return address for any replies.
 
-Hartanto Ario Widjaya<br>12 Purvis Street<br>#02-1904<br>Singapore 188591
+Hartanto Ario Widjaya<br>152 Beach Road, #02-08<br>MPB 1904<br>Singapore 189721
 
 <script src="{{ '/assets/js/email.min.js' | absolute_url }}"></script>
