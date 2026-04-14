@@ -5,7 +5,7 @@ permalink_name: /contact
 image: /assets/img/social/contact.png
 title: Contact Me
 description: Reach out to me and let's talk about mainframes.
-last_modified_at: 2024-02-27T20:00:00+08:00
+last_modified_at: 2026-04-14T21:30:00+08:00
 ---
 
 One thing that I realized after a while in the mainframe community is that people are open to questions. If you have any questions, feel free to reach out to me and I'll gladly answer them.
@@ -33,12 +33,12 @@ I self-host a personal [GoToSocial](https://github.com/superseriousbusiness/goto
 
 [social.securitypuppy.com/@hartanto](https://social.securitypuppy.com/@hartanto){:target="_blank"}{:rel="noopener noreferrer"}
 
-Do note that GoToSocial is still in alpha, there might be bugs and missing features which I can't interact with.
+Do note that GoToSocial is still in beta, there might be bugs and missing features which I can't interact with.
 
 ### Snail Mail
 
 Alternatively, snail mail is also an option. Do note that it may take a while for me to get back to you. Please include a return address for any replies.
 
-Hartanto Ario Widjaya<br>152 Beach Road, #02-08<br>MPB 1904<br>Singapore 189721
+Hartanto Ario Widjaya<br>387 Joo Chiat Road, #02-11<br>MPB 1904<br>Singapore 427623
 
 <script src="{{ '/assets/js/email.min.js' | absolute_url }}"></script>
