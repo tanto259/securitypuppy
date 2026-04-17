@@ -5,7 +5,7 @@ permalink_name: /training
 image: /assets/img/social/training.png
 title: Free Mainframe Training
 description: A collection of links to free mainframe training for everyone to enjoy.
-last_modified_at: 2024-02-17T07:50:00+08:00
+last_modified_at: 2026-04-18T07:30:00+08:00
 ---
 
 The materials listed on this site are all provided for free. However, you will need to create an [IBMid](https://www.ibm.com/account/){:target="_blank"}{:rel="noopener noreferrer"} to access most of them - and there are a few materials which are limited to active students from accredited institutions. Many of the IBM Learning Platform courses are also available on Coursera and/or edX. However, for both Coursera and edX, you will need to pay to obtain a certificate. All materials are self-paced unless indicated otherwise.
@@ -14,23 +14,22 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 17 February 2024*
+*Last updated: 18 April 2026*
 
 ### Introductory Materials
 
 For someone new to the field, I would advise you to try out the IBM Z Xplore learning system. It came with complementary access to a z/OS instance for training, and would serve as the perfect introduction for someone new to mainframe.
 
-- [IBM Z Xplore](https://www.ibm.com/community/z/talent/get-started/){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Z Xplore](https://ibmzxplore.influitive.com/){:target="_blank"}{:rel="noopener noreferrer"}
   * Students? IBM holds [IBM zStudent Contest](https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/){:target="_blank"}{:rel="noopener noreferrer"} on an annual basis, watch this space for the next one.
   * Educators? Check out the [Educator Hub](https://ibm.biz/educatorhub){:target="_blank"}{:rel="noopener noreferrer"} to find out more on utilizing IBM Z Xplore in your curriculum.
 - [z/OS Basic Skills on IBM Docs](https://www.ibm.com/docs/en/zos-basic-skills){:target="_blank"}{:rel="noopener noreferrer"}
-- [z/OS Introduction and Modernization Instructor-Led Training](https://ibm.biz/zOSclass){:target="_blank"}{:rel="noopener noreferrer"}
 - [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM z/OS Security Essentials](https://www.credly.com/org/ibm/badge/ibm-z-os-security-essentials){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Resiliency](https://www.credly.com/org/ibm/badge/ibm-z-resiliency){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM z/OS Mainframe Practitioner](https://www.credly.com/org/ibm/badge/ibm-z-os-mainframe-practitioner){:target="_blank"}{:rel="noopener noreferrer"}
 - [Architecting Applications with IBM Z](https://www.credly.com/org/ibm/badge/architecting-applications-with-ibm-z){:target="_blank"}{:rel="noopener noreferrer"}
 - [Application Modernization on IBM Z](https://www.credly.com/org/ibm/badge/application-modernization-with-ibm-z){:target="_blank"}{:rel="noopener noreferrer"}
-- [Zowe Fundamentals - Interskill](https://www.interskill.com/course-catalog/Zowe-Fundamentals.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [Networking for z/OS - Foundations](https://www.credly.com/org/ibm/badge/networking-on-z-os-foundations){:target="_blank"}{:rel="noopener noreferrer"}
 - [TCP/IP on z/OS Essentials - Level 1](https://www.credly.com/org/ibm/badge/tcp-ip-on-z-os-essentials-level-1){:target="_blank"}{:rel="noopener noreferrer"}
 - [Linux on LinuxONE](https://www.credly.com/org/ibm/badge/linux-on-linuxone){:target="_blank"}{:rel="noopener noreferrer"}
@@ -49,11 +48,12 @@ The following material is exclusive for students from accredited academic instit
 If your shop happened to use IBM's DevOps tools, here are several resources which may be useful for you.
 
 - [ADFz/RDz/IDz Instructor-Led Training](https://ibm.github.io/mainframe-downloads/Training/adfz-instructor-led-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Developer for z/OS](https://ibm.github.io/mainframe-downloads/DevOps_Acceleration_Program/idz-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Developer for z/OS](https://ibm.github.io/mainframe-downloads/Training/idz-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Dependency Based Build](https://ibm.github.io/mainframe-downloads/Training/dbb-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Application Discovery & Delivery Intelligence](https://ibm.github.io/mainframe-downloads/Training/addi-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [Cloud Native Development with IBM Z and Cloud Modernization Stack Fundamentals](https://ibm.github.io/mainframe-downloads/Training/wazideveloper-self-paced-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM zDevOps Testing Fundamentals](https://ibm.github.io/mainframe-downloads/Training/zdevops-testing-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Developer for z/OS on VSCode Fundamentals](https://ibm.github.io/mainframe-downloads/Training/idz-on-vscode-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM watsonx Code Assistant for Z Fundamentals](https://ibm.github.io/mainframe-downloads/Training/wca4z-learning.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [Automatic Binary Optimizer for z/OS Essentials](https://www.credly.com/org/ibm/badge/automatic-binary-optimizer-for-z-os-essentials-v2){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Specialized Materials
@@ -63,25 +63,26 @@ Materials in this section are often times specialized in nature, and would be mo
 - [Modernize Applications with IBM CICS](https://www.credly.com/org/ibm/badge/modernize-applications-with-ibm-cics){:target="_blank"}{:rel="noopener noreferrer"}
 - [IMS Education](https://imsdev.github.io/ims-education.html){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM zSystems Cybersecurity Insights](https://www.credly.com/org/ibm/badge/ibm-zsystems-cybersecurity-insights){:target="_blank"}{:rel="noopener noreferrer"}
-- [Enterprise Knight of IBM Z - Knight-Errant](https://www.credly.com/org/ibm/badge/ibm-z-secure-engineering-knight-errant){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS TCP/IP Configuration with NCA](https://www.credly.com/org/ibm/badge/z-os-tcp-ip-configuration-with-nca){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS Network Security - Foundations](https://www.credly.com/org/ibm/badge/z-os-network-security-foundations){:target="_blank"}{:rel="noopener noreferrer"}
 - [zERT Policy Enforcement Configuration with NCA](https://www.credly.com/org/ibm/badge/zert-policy-enforcement-configuration-with-nca){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z System Automation - Integration by System Programmer](https://www.credly.com/org/ibm/badge/ibm-z-system-automation-integration-by-system-progr){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Operational Log and Data Analytics - Foundations](https://www.credly.com/org/ibm/badge/ibm-z-operational-log-and-data-analytics-foundation){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z Operational Log and Data Analytics - Intermediate](https://www.credly.com/org/ibm/badge/ibm-z-operational-log-and-data-analytics){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Z Common Data Provider V2.1](https://www.credly.com/org/ibm/badge/ibm-z-common-data-provider-v2-1-foundations){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS System Services Structure](https://www.credly.com/org/ibm/badge/z-os-system-services-structure){:target="_blank"}{:rel="noopener noreferrer"}
 - [SMP/E for z/OS Workshop](https://www.credly.com/org/ibm/badge/smp-e-for-z-os-workshop){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS Installation Using z/OSMF](https://www.credly.com/org/ibm/badge/z-os-installation-using-z-osmf){:target="_blank"}{:rel="noopener noreferrer"}
 - [Introducing z/OS UNIX System Services](https://www.credly.com/org/ibm/badge/introducing-z-os-unix-system-services){:target="_blank"}{:rel="noopener noreferrer"}
 - [GDPS Fundamentals](https://www.credly.com/org/ibm/badge/gdps-fundamentals){:target="_blank"}{:rel="noopener noreferrer"}
+- [Linux on IBM LinuxONE Intermediate](https://www.credly.com/org/ibm/badge/linux-on-ibm-linuxone-intermediate){:target="_blank"}{:rel="noopener noreferrer"}
+- [z/OS DFSMS Academy - DFSMShsm Explorer](https://www.credly.com/org/ibm/badge/z-os-dfsms-academy-dfsmshsm-explorer){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/OS REXX Programming](https://www.credly.com/org/ibm/badge/z-os-rexx-programming){:target="_blank"}{:rel="noopener noreferrer"}
 - [Introduction to the PL/I Programming Language](https://www.credly.com/org/ibm/badge/introduction-to-the-pl-i-programming-language){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/Architecture Assembler Language - Part 1: The Basics](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-1-the-basics){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/Architecture Assembler Language - Part 2: Machine Instructions](https://www.credly.com/org/ibm/badge/z-architecture-assembler-language-part-2-machine-in){:target="_blank"}{:rel="noopener noreferrer"}
 - [z/VM Education](https://www.vm.ibm.com/education/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM zSystems Software Trials](https://www.ibm.com/z/trials){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM DS8000 Gen10 Storage Fundamentals](https://www.credly.com/org/ibm/badge/ibm-ds8000-gen10-storage-fundamentals){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Non-Mainframe Materials
 
