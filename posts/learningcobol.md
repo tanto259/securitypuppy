@@ -5,10 +5,10 @@ permalink_name: /words/learningcobol
 image: /assets/img/social/home.png
 title: Learning COBOL as a Student
 description: Here is why there is no harm in learning COBOL as a student.
-last_modified_at: 2022-10-18T16:30:00+08:00
+last_modified_at: 2026-04-18T10:00:00+08:00
 ---
 
-*First published: 25 December 2020*<br>*Last updated: 18 October 2022*
+*First published: 25 December 2020*<br>*Last updated: 18 April 2026*
 
 Let's talk about COBOL! A programming language which, despite being 61 years old, still powers many of the world's business and finance systems. It was designed to be a standard business-oriented computing language, and it did just that.
 
@@ -36,13 +36,13 @@ My first encounter into COBOL was through the [COBOL Programming Course](https:/
 
 But it wasn't until I took another course held by IBMer Jonathan Sayles that I realize how massive COBOL programs can be. He shows us examples of COBOL applications with more than 2000 lines and provides insights into how complex an enterprise business application can be.
 
-There are also other avenues of learning, such as the [COBOL Fridays webinar series](https://developer.ibm.com/series/cobol-fridays-webinar-videos){:rel="noopener noreferrer"} which has recently concluded with a panel discussion with students and academia about educating the next generation of COBOL programmers.
+There are also other avenues of learning, such as the [COBOL Fridays webinar series](https://www.youtube.com/playlist?list=PLzpeuWUENMK2-pANOj6C1aXyd8puKqhT2){:rel="noopener noreferrer"} which has recently concluded with a panel discussion with students and academia about educating the next generation of COBOL programmers.
 
 The community is also a very important aspect of my study and I found that the mainframe community has been helpful and welcoming to new people. It's one of the very few communities where I feel welcomed. So, do network with us on the [Open Mainframe Project's Slack workspace](https://slack.openmainframeproject.org/){:rel="noopener noreferrer"} and feel free to ask questions on the #COBOL-Programming-Course channel there.
 
 ### The Next Generation of COBOLers
 
-I recently took part in the panel discussion for [COBOL Fridays' final episode](https://developer.ibm.com/videos/cobol-fridays-meet-the-next-generation-of-cobolers/){:rel="noopener noreferrer"} where my friend Emmanuel and I talked about our learning journey in Enterprise Computing while also learning from academic institutions about their part in teaching the next generation. I would encourage you to watch the panel discussion, where I learned many new things about COBOL and hopefully, you will too.
+I recently took part in the panel discussion for [COBOL Fridays' final episode](https://youtu.be/wBFEZE_09Sw){:rel="noopener noreferrer"} where my friend Emmanuel and I talked about our learning journey in Enterprise Computing while also learning from academic institutions about their part in teaching the next generation. I would encourage you to watch the panel discussion, where I learned many new things about COBOL and hopefully, you will too.
 
 In the end, COBOL is just another language. It wouldn't hurt you to learn more about this iconic language which has been around for decades and help power the world's economy.
 
