@@ -5,7 +5,7 @@ permalink_name: /access
 image: /assets/img/social/access.png
 title: Mainframe Access
 description: A collection of links to way you can gain access to your own mainframe system.
-last_modified_at: 2023-07-16T21:00:00+08:00
+last_modified_at: 2026-04-18T08:30:00+08:00
 ---
 
 One of the biggest challenges with learning mainframes is getting access to one for practice. Nowadays, there are a few ways you can get access to one.
@@ -14,14 +14,13 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 16 July 2023*
+*Last updated: 18 April 2026*
 
 ### Complementary Access
 
 Several training plaforms provide access to a z/OS or Linux on Z instance for training. While access are complementary, you are often limited on what you can do on the system.
 
-- [IBM Z Xplore](https://www.ibm.com/community/z/talent/get-started/){:target="_blank"}{:rel="noopener noreferrer"}
-- [COBOL Programming Course](https://github.com/openmainframeproject/cobol-programming-course){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Z Xplore](https://ibmzxplore.influitive.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - [LinuxONE Community Cloud](https://developer.ibm.com/articles/get-started-with-ibm-linuxone/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM zSystems Software Trials](https://www.ibm.com/z/trials){:target="_blank"}{:rel="noopener noreferrer"}
 
@@ -38,9 +37,7 @@ Amongst the listing, only IBM Z Development and Test Environment and IBM Wazi as
 - [IBM Z Development and Test Environment](https://www.ibm.com/products/z-development-test-environment){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Wazi as a Service](https://www.ibm.com/cloud/wazi-as-a-service){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Virtual Dev and Test for z/OS](https://www.ibm.com/products/virtual-dev-and-test-zos){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Z and Cloud Modernization Stack](https://www.ibm.com/products/z-and-cloud-modernization-stack){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM Z Dallas ISV Center Offerings](http://dtsc.dfw.ibm.com/){:target="_blank"}{:rel="noopener noreferrer"}
-- [IBM zSystems On-Premises Development Program](https://zopd.dfw.ibm.com/){:target="_blank"}{:rel="noopener noreferrer"}
+- [IBM Z Dallas ISV Center Offerings](https://dtsc.dfw.ibm.com/public){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Historical Resources
 
