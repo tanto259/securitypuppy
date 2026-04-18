@@ -87,7 +87,8 @@ Attending events would not only allow you to network with others, but also learn
   * [z/OSMF Community Guild Sessions](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild){:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
   * [SHARE Pittsburgh 2026](https://www.share.org/Events/SHARE-Pittsburgh){:target="_blank"}{:rel="noopener noreferrer"}
-  * [GSE UK Virtual Conference 2026](https://conferences.gse.org.uk/2026V){:target="_blank"}{:rel="noopener noreferrer"}
+  * [VM Workshop 2026](https://vmworkshop.org/2026.shtml){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GS UK Virtual Conference 2026](https://conferences.gse.org.uk/2026V){:target="_blank"}{:rel="noopener noreferrer"}
 - Past Events with Public Recording
   * [Open Mainframe at GS UK Conference 2025](https://www.youtube.com/playlist?list=PL8REpLGaY9QHBWxLJrmlQdTX5_jPeAJPJ){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe at IBM TechXChange 2025](https://www.youtube.com/playlist?list=PL8REpLGaY9QFVIxW925g1vP7h8peX4F36){:target="_blank"}{:rel="noopener noreferrer"}
