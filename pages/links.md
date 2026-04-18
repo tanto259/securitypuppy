@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2026-04-18T08:20:00+08:00
+last_modified_at: 2026-04-18T09:50:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -94,12 +94,12 @@ Attending events would not only allow you to network with others, but also learn
   * [Open Mainframe at IBM TechXChange 2025](https://www.youtube.com/playlist?list=PL8REpLGaY9QFVIxW925g1vP7h8peX4F36){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2025](https://community.ibm.com/zsystems/events/ibm-z-day-2025/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2025](https://www.youtube.com/playlist?list=PL5WWepmN1fC0W_2gkZKCmVl0qdf4Ihzlg){:target="_blank"}{:rel="noopener noreferrer"}
-  * [GS UK Virtual Conference 2024](https://www.youtube.com/@GSUKIndependent/videos){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2025 Special Edition](https://community.ibm.com/zsystems/events/ibm-z-day-2025-se/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe at GSE UK Conference 2024](https://www.youtube.com/playlist?list=PL8REpLGaY9QEuUkZ4McsnBuotIkr1ssPT){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe at IBM TechXChange 2024](https://www.youtube.com/playlist?list=PL8REpLGaY9QEFO4dNdma7DwhPm09uFvsY){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2024](https://community.ibm.com/zsystems/events/ibm-z-day-2024/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2024](https://www.youtube.com/playlist?list=PL5WWepmN1fC0_EkDBW8tK4WVH-3XyNaJc){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GSE UK Virtual Conference 2024](https://www.youtube.com/@GSUKIndependent/videos){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2023 - New York](https://www.youtube.com/playlist?list=PL8REpLGaY9QGjLauNkCvpLR-hsSOeVT8w){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Day 2023](https://community.ibm.com/zsystems/events/ibm-z-day-2023/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2023](https://www.youtube.com/playlist?list=PL5WWepmN1fC2RBG6f8Cf3JK-wVWC71aC7){:target="_blank"}{:rel="noopener noreferrer"}
