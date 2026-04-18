@@ -5,7 +5,7 @@ permalink_name: /links
 image: /assets/img/social/links.png
 title: Mainframe Links
 description: A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
-last_modified_at: 2024-04-21T15:30:00+08:00
+last_modified_at: 2026-04-18T08:20:00+08:00
 ---
 
 When I was first introduced to the mainframes back in 2019, resources are all over the place. Back in 2021, I decided to make a list to all the beginner-friendly resources that I am familiar with to allow everyone to join the field.
@@ -14,7 +14,7 @@ Do note that the links listed here are provided as-is to enhance your experience
 
 If you are interested in contributing to this site, check out [/contribution]({{ '/contribution' | absolute_url }}) for a full policy.
 
-*Last updated: 21 April 2024*
+*Last updated: 18 April 2026*
 
 ### Community
 
@@ -28,16 +28,15 @@ Community played a huge part in influencing my decision to stay in this field. I
   * [Community Forum](https://community.openmainframeproject.org/){:target="_blank"}{:rel="noopener noreferrer"}
 - [IBM Z and LinuxONE Community](https://www.ibm.com/community/z/){:target="_blank"}{:rel="noopener noreferrer"}
   * [New to IBM zSystems](https://ibm.biz/newtoibmz){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Fans of IBM zSystems](https://ibm.biz/zSystemsFans){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM zSystems Global Student Hub](https://ibm.biz/studenthub){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zSystems Educator Hub](https://ibm.biz/educatorhub){:target="_blank"}{:rel="noopener noreferrer"}
 - User Groups
   * [SHARE](https://www.share.org/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Guide Share Europe](https://www.gse.org/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GS UK](https://www.gse.org.uk){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop](http://www.vmworkshop.org/){:target="_blank"}{:rel="noopener noreferrer"}
   * [MainframerZ Meetup](https://www.meetup.com/MainframerZ-London/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Enterprise Computing Community](https://ecc.marist.edu/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [z/OS Open Tools Community](https://zosopentools.github.io/meta/#/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [zopen Community](https://zopen.community/#/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Z Customer Council](https://ibm-zcouncil.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - Social Media
   * [r/mainframe - Reddit](https://www.reddit.com/r/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -55,22 +54,20 @@ The mainframe field used to be associated with the absence of training resources
   * [SHARE'd Knowledge](https://knowledge.share.org/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Training](https://www.ibm.com/training/mainframe/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Interskill Learning](https://www.interskill.com/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Institute for Data Center Professionals](https://idcp.marist.edu/zos-program-overview){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Ethical Mainframe Hacking](https://evilmainframe.com/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Broadcom Mainframe Software Training](https://www.broadcom.com/support/education/mainframe){:target="_blank"}{:rel="noopener noreferrer"}
   * [RACF Training by RSH Consulting](https://www.rshconsulting.com/training.htm){:target="_blank"}{:rel="noopener noreferrer"}
 - [Mainframe Access]({{ '/access' | absolute_url }})
 - [Mainframe Skills Depot](https://mainframeskillsdepot.ibm.com/){:target="_blank"}{:rel="noopener noreferrer"}
 - [Mainframe Open Education](https://open-mainframe-project.gitbook.io/mainframe-open-education-project/){:target="_blank"}{:rel="noopener noreferrer"}
 - Mentorship and Apprenticeship
   * [Open Mainframe Project Mentorship Program](https://openmainframeproject.org/community/mentorship-program/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Apprenticeship Program](https://www.franklinapprenticeships.com/ibm-z-apprenticeship-program/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Broadcom Mainframe Vitality Program](https://mainframe.broadcom.com/education/mainframe-vitality-program){:target="_blank"}{:rel="noopener noreferrer"}
-  * [The Mainframe Learning Consortium](https://themlc.app/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Global Skills Accelerator Program](https://community.ibm.com/zsystems/talent/globalskills/){:target="_blank"}{:rel="noopener noreferrer"}
 - Documentation
   * [Zikipedia](https://ibmredbooks.github.io/zikipedia/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM z/OS Documentation](https://www.ibm.com/docs/en/zos){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zSystems Redbooks](https://www.redbooks.ibm.com/domains/zsystems){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Hot Topics](https://zos-hot-topics.com/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Hot Topics](https://www.ibm.com/docs/en/zos-hot-topics){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM z/OSMF One Stop Hub](https://ibm.github.io/zOSMF/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe DEV](https://ibm.github.io/mainframe-downloads/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM Documentation Offline](https://www.ibm.com/docs/en/offline){:target="_blank"}{:rel="noopener noreferrer"}
@@ -84,32 +81,35 @@ Attending events would not only allow you to network with others, but also learn
   * [Terminal Talk](https://www.terminaltalk.net/){:target="_blank"}{:rel="noopener noreferrer"}
   * [I Am A Mainframer](https://openmainframeproject.org/news/i-am-a-mainframer-podcast/){:target="_blank"}{:rel="noopener noreferrer"}
   * [Mainframe, Performance, Topics](https://podcasters.spotify.com/pod/show/marna-walle){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z DevOps Talks](https://developer.ibm.com/podcasts/z_devops_talks_podcast/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Z DevOps Talks](https://creators.spotify.com/pod/profile/z-devops-talks/){:target="_blank"}{:rel="noopener noreferrer"}
   * [z/Action! Podcast](https://community.ibm.com/community/user/ibmz-and-linuxone/viewdocument/zaction-podcast){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM zSkills Crowdcast](https://www.crowdcast.io/ibmz){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IntelliMagic zAcademy](https://www.intellimagic.com/zacademy/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Expert Hour with IBM Champions](https://ibm.webcasts.com/starthere.jsp?ei=1562165&tp_key=2f59feab75){:target="_blank"}{:rel="noopener noreferrer"}
   * [Linux on IBM zSystems and LinuxONE Webcast](https://www.ibm.com/support/pages/node/6351445){:target="_blank"}{:rel="noopener noreferrer"}
   * [z/OSMF Community Guild Sessions](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild){:rel="noopener noreferrer"}
 - Upcoming or Ongoing Events
-  * [GSE UK Virtual Conference 2024](https://conferences.gse.org.uk/2024V){:target="_blank"}{:rel="noopener noreferrer"}
-  * [SHARE Kansas City 2024](https://www.share.org/Events/SHARE-Kansas-City-2024/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [SHARE Pittsburgh 2026](https://www.share.org/Events/SHARE-Pittsburgh){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GSE UK Virtual Conference 2026](https://conferences.gse.org.uk/2026V){:target="_blank"}{:rel="noopener noreferrer"}
 - Past Events with Public Recording
+  * [Open Mainframe at GS UK Conference 2025](https://www.youtube.com/playlist?list=PL8REpLGaY9QHBWxLJrmlQdTX5_jPeAJPJ){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Open Mainframe at IBM TechXChange 2025](https://www.youtube.com/playlist?list=PL8REpLGaY9QFVIxW925g1vP7h8peX4F36){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Day 2025](https://community.ibm.com/zsystems/events/ibm-z-day-2025/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [VM Workshop 2025](https://www.youtube.com/playlist?list=PL5WWepmN1fC0W_2gkZKCmVl0qdf4Ihzlg){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GS UK Virtual Conference 2024](https://www.youtube.com/@GSUKIndependent/videos){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Day 2025 Special Edition](https://community.ibm.com/zsystems/events/ibm-z-day-2025-se/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Open Mainframe at GSE UK Conference 2024](https://www.youtube.com/playlist?list=PL8REpLGaY9QEuUkZ4McsnBuotIkr1ssPT){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Open Mainframe at IBM TechXChange 2024](https://www.youtube.com/playlist?list=PL8REpLGaY9QEFO4dNdma7DwhPm09uFvsY){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Day 2024](https://community.ibm.com/zsystems/events/ibm-z-day-2024/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [VM Workshop 2024](https://www.youtube.com/playlist?list=PL5WWepmN1fC0_EkDBW8tK4WVH-3XyNaJc){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2023 - New York](https://www.youtube.com/playlist?list=PL8REpLGaY9QGjLauNkCvpLR-hsSOeVT8w){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Day 2023](https://ibmzday.bemyapp.com/2023){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Z Day 2023](https://community.ibm.com/zsystems/events/ibm-z-day-2023/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2023](https://www.youtube.com/playlist?list=PL5WWepmN1fC2RBG6f8Cf3JK-wVWC71aC7){:target="_blank"}{:rel="noopener noreferrer"}
-  * [GSE UK Virtual Conference 2023](https://www.youtube.com/@GSEUKRegion/videos){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GSE UK Virtual Conference 2023](https://www.youtube.com/@GSUKIndependent/videos){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2022](https://www.youtube.com/playlist?list=PL8REpLGaY9QHyZhlGOQLx8iT9B1LgVoF0){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM zDay 2022](https://www.ibm.com/community/z/ibm-zday-2022/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2022](https://www.youtube.com/playlist?list=PL5WWepmN1fC2CuvO323tldEMwGJtu0gpE){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM z16 Day Special Edition](https://www.ibm.com/community/z/ibm-z16-day-se-2022/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [GSE UK Conference 2021](https://www.youtube.com/@GSEUKRegion/playlists){:target="_blank"}{:rel="noopener noreferrer"}
+  * [GSE UK Conference 2021](https://www.youtube.com/@GSUKIndependent/playlists){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2021](https://www.youtube.com/playlist?list=PL8REpLGaY9QFFr5QMJ0Lh6TkUABpFB1ZB){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Day 2021](https://www.ibm.com/community/z/ibm-z-day-2021/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2021](https://www.youtube.com/playlist?list=PL5WWepmN1fC2tQJJh18KeGCZ1xkaNVaUc){:target="_blank"}{:rel="noopener noreferrer"}
   * [GSE UK Conference 2020](https://www.youtube.com/@GSEUKRegion/playlists){:target="_blank"}{:rel="noopener noreferrer"}
   * [Open Mainframe Summit 2020](https://www.youtube.com/playlist?list=PL8REpLGaY9QGExAKP21tQ7v952Ri6re9p){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Z Day 2020](https://www.ibm.com/community/z/2020-z-day-replays/){:target="_blank"}{:rel="noopener noreferrer"}
   * [VM Workshop 2020](https://www.youtube.com/playlist?list=PL5WWepmN1fC2lamZevLvCBxveOUDE28QZ){:target="_blank"}{:rel="noopener noreferrer"}
   * [GSE UK Conference 2019](https://www.youtube.com/playlist?list=PLuV-8Djx1_O0kWVMSiRj6P2TdwoxMxCf8)
   * [GSE UK Conference 2018](https://www.youtube.com/playlist?list=PLuV-8Djx1_O3RKxtxmCNSms2tJjHDCHFJ)
@@ -121,10 +121,9 @@ It is undeniable that we need fresh talent in the mainframe field, this so-calle
 
 - General Programs
   * [IBM zSystems Advocacy Hub](https://www.ibm.com/community/z/advocacy/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [IBM Champions](https://developer.ibm.com/champions/){:target="_blank"}{:rel="noopener noreferrer"}
-  * [Open Mainframe Project Ambassadors](https://tac.openmainframeproject.org/programs/ambassadors.html){:target="_blank"}{:rel="noopener noreferrer"}
+  * [IBM Champions](https://www.ibm.com/community/ibm-champions/){:target="_blank"}{:rel="noopener noreferrer"}
+  * [Open Mainframe Project Ambassadors](https://openmainframeproject.org/about/ambassadors/){:target="_blank"}{:rel="noopener noreferrer"}
 - Student Programs
-  * [IBM zSystems Student Hub Badge](https://www.ibm.com/community/z/ibm-z-global-student-hub-badge/){:target="_blank"}{:rel="noopener noreferrer"}
   * [IBM zSystems Student Ambassadors](https://yourbigyear.com/ibm-zsystems-ambassador-program){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### Swags
