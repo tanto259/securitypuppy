@@ -1,0 +1,24 @@
+- tag: Platform
+  title: SHARE'd Knowledge
+  url: https://knowledge.share.org/
+  desc: Paid training platform from SHARE with on-demand courses on enterprise IT topics.
+
+- tag: IBM
+  title: IBM Training
+  url: https://www.ibm.com/training/mainframe/
+  desc: Official IBM mainframe training courses and certification paths.
+
+- tag: Platform
+  title: Interskill Learning
+  url: https://www.interskill.com/
+  desc: Comprehensive mainframe training library covering z/OS, CICS, COBOL, and more.
+
+- tag: Broadcom
+  title: Broadcom Mainframe Software Training
+  url: https://www.broadcom.com/support/education/mainframe
+  desc: Training courses on Broadcom's mainframe software portfolio.
+
+- tag: Security
+  title: RACF Training by RSH Consulting
+  url: https://www.rshconsulting.com/training.htm
+  desc: Specialized RACF security administration training courses.

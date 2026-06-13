@@ -1,0 +1,24 @@
+- tag: Video
+  title: "IT's Best Kept Secret"
+  url: https://www.youtube.com/watch?v=ZRnnc57tJDI
+  desc: Video exploring the mainframe platform and why it remains one of IT's best-kept secrets.
+
+- tag: IBM
+  title: IBM zSystems Advocacy Hub
+  url: https://www.ibm.com/community/z/advocacy/
+  desc: IBM's central hub for zSystems advocacy resources, toolkits, and programs.
+
+- tag: IBM
+  title: IBM Champions
+  url: https://www.ibm.com/community/ibm-champions/
+  desc: Recognition program for IBM technology advocates who share expertise.
+
+- tag: OMP
+  title: Open Mainframe Project Ambassadors
+  url: https://openmainframeproject.org/about/ambassadors/
+  desc: Ambassador program for community members who promote open-source mainframe initiatives.
+
+- tag: Student
+  title: IBM zSystems Student Ambassadors
+  url: https://yourbigyear.com/ibm-zsystems-ambassador-program
+  desc: Program for students to represent IBM zSystems on their campuses.

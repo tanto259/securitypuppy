@@ -1,0 +1,172 @@
+{{ define "main" }}
+  <div class="container container--wide">
+    <h1>{{ .Title }}</h1>
+    <p class="section-intro">
+      A collection of training materials for mainframes — free courses, paid platforms, documentation, and mentorship programs.
+      {{ with .Lastmod }}<br><em>Last updated: {{ . | time.Format "2 January 2006" }}</em>{{ end }}
+    </p>
+    <p class="section-intro">
+      Need hands-on access? Head to <a href="{{ "/access/" | relURL }}">/access</a>. Back to <a href="{{ "/links/" | relURL }}">/links</a>.
+    </p>
+
+    {{/* Search bar */}}
+    <div class="search-bar">
+      <input type="text" id="course-search" placeholder="Search courses… (e.g. COBOL, security, CICS)" aria-label="Search training resources" autocomplete="off">
+      <div class="search-hint">
+        <span>Filter across all sections</span>
+        <span class="result-count" id="result-count"></span>
+      </div>
+    </div>
+
+    {{/* Section nav pills */}}
+    <nav class="section-nav" aria-label="Training sections">
+      {{ with hugo.Data.training_intro }}<button data-section="intro" class="active">Introductory</button>{{ end }}
+      {{ with hugo.Data.training_devops }}<button data-section="devops">DevOps</button>{{ end }}
+      {{ with hugo.Data.training_specialized }}<button data-section="specialized">Specialized</button>{{ end }}
+      {{ with hugo.Data.training_nonmainframe }}<button data-section="nonmainframe">Non-Mainframe</button>{{ end }}
+      {{ with hugo.Data.training_paid }}<button data-section="paid">Paid</button>{{ end }}
+      {{ with hugo.Data.training_docs }}<button data-section="docs">Documentation</button>{{ end }}
+      {{ with hugo.Data.training_mentorship }}<button data-section="mentorship">Mentorship</button>{{ end }}
+    </nav>
+
+    <div class="no-results" id="no-results">No courses match your search.</div>
+
+    {{/* ───────────── Introductory Materials ───────────── */}}
+    {{ with hugo.Data.training_intro }}
+    <section class="resource-section" data-group="intro" aria-labelledby="section-intro">
+      <div class="collapsible-header" aria-expanded="true" role="button" tabindex="0" aria-controls="intro-content">
+        <h2 id="section-intro" >Introductory Materials</h2>
+        <span class="toggle-icon" aria-hidden="true">▸</span>
+      </div>
+      <p>Start here if you are new to mainframes.</p>
+      <div class="collapsible-content expanded" id="intro-content">
+        <div class="card-grid">
+          {{ range . }}
+            {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── DevOps on Z ───────────── */}}
+    {{ with hugo.Data.training_devops }}
+    <section class="resource-section" data-group="devops" aria-labelledby="section-devops">
+      <div class="collapsible-header" aria-expanded="false" role="button" tabindex="0" aria-controls="devops-content">
+        <h2 id="section-devops" >DevOps on Z Toolings</h2>
+        <span class="toggle-icon" aria-hidden="true">▸</span>
+      </div>
+      <p>Courses focused on modern development tools and DevOps practices for IBM Z.</p>
+      <div class="collapsible-content collapsed" id="devops-content">
+        <div class="card-grid">
+          {{ range . }}
+            {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Specialized ───────────── */}}
+    {{ with hugo.Data.training_specialized }}
+    <section class="resource-section" data-group="specialized" aria-labelledby="section-specialized">
+      <div class="collapsible-header" aria-expanded="false" role="button" tabindex="0" aria-controls="specialized-content">
+        <h2 id="section-specialized" >Specialized Materials</h2>
+        <span class="toggle-icon" aria-hidden="true">▸</span>
+      </div>
+      <p>Deeper dives into specific mainframe subsystems, languages, and technologies.</p>
+      <div class="collapsible-content collapsed" id="specialized-content">
+        <div class="card-grid">
+          {{ range . }}
+            {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Non-Mainframe ───────────── */}}
+    {{ with hugo.Data.training_nonmainframe }}
+    <section class="resource-section" data-group="nonmainframe" aria-labelledby="section-nonmainframe">
+      <div class="collapsible-header" aria-expanded="false" role="button" tabindex="0" aria-controls="nonmainframe-content">
+        <h2 id="section-nonmainframe" >Non-Mainframe Materials</h2>
+        <span class="toggle-icon" aria-hidden="true">▸</span>
+      </div>
+      <p>General IBM and technology learning platforms that include mainframe-adjacent content.</p>
+      <div class="collapsible-content collapsed" id="nonmainframe-content">
+        <div class="card-grid">
+          {{ range . }}
+            {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Paid Resources ───────────── */}}
+    {{ with hugo.Data.training_paid }}
+    <section class="resource-section" data-group="paid" aria-labelledby="section-paid">
+      <div class="collapsible-header" aria-expanded="false" role="button" tabindex="0" aria-controls="paid-content">
+        <h2 id="section-paid" >Paid Resources</h2>
+        <span class="toggle-icon" aria-hidden="true">▸</span>
+      </div>
+      <p>Commercial training platforms with mainframe courses and certification paths.</p>
+      <div class="collapsible-content collapsed" id="paid-content">
+        <div class="card-grid">
+          {{ range . }}
+            {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Documentation ───────────── */}}
+    {{ with hugo.Data.training_docs }}
+    <section class="resource-section" data-group="docs" aria-labelledby="section-docs">
+      <div class="collapsible-header" aria-expanded="false" role="button" tabindex="0" aria-controls="docs-content">
+        <h2 id="section-docs" >Documentation</h2>
+        <span class="toggle-icon" aria-hidden="true">▸</span>
+      </div>
+      <p>Official and community-maintained documentation for z/OS, CICS, and related technologies.</p>
+      <div class="collapsible-content collapsed" id="docs-content">
+        <div class="card-grid">
+          {{ range . }}
+            {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Mentorship ───────────── */}}
+    {{ with hugo.Data.training_mentorship }}
+    <section class="resource-section" data-group="mentorship" aria-labelledby="section-mentorship">
+      <div class="collapsible-header" aria-expanded="false" role="button" tabindex="0" aria-controls="mentorship-content">
+        <h2 id="section-mentorship" >Mentorship &amp; Apprenticeship</h2>
+        <span class="toggle-icon" aria-hidden="true">▸</span>
+      </div>
+      <p>Programs that pair students and early-career professionals with experienced mainframers.</p>
+      <div class="collapsible-content collapsed" id="mentorship-content">
+        <div class="card-grid">
+          {{ range . }}
+            {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    <div class="disclaimer">
+      <p>Any views or opinions represented on this website are personal and do not represent those of individuals or organizations that I am associated with.</p>
+    </div>
+  </div>
+{{ end }}
+
+{{ define "scripts" }}
+  {{ $trainingJS := resources.Get "js/training.js" }}
+  {{ if $trainingJS }}
+    {{ $trainingMin := $trainingJS | minify | fingerprint }}
+    <script src="{{ $trainingMin.RelPermalink }}" integrity="{{ $trainingMin.Data.Integrity }}" defer></script>
+  {{ end }}
+{{ end }}

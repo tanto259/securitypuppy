@@ -1,0 +1,28 @@
+baseURL = 'https://securitypuppy.com'
+title = 'securitypuppy'
+locale = 'en-us'
+
+[params]
+  author = "Hartanto Ario Widjaya"
+  description = "Mainframe links and resources for everyone."
+  socialImage = "/img/social/home.png"
+  tagline = "Mainframe links and resources for everyone."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+
+disableKinds = ['taxonomy', 'term']
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5

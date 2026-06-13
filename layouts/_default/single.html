@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <article class="prose">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="post-desc">{{ . }}</p>
+    {{ end }}
+    {{ if or .Date .Lastmod }}
+    <p class="post-meta">
+      {{ with .Date }}<span class="post-meta-item"><time datetime="{{ .Format "2006-01-02" }}">First published: {{ . | time.Format "2 January 2006" }}</time></span>{{ end }}
+      {{ with .Lastmod }}<span class="post-meta-item"><time datetime="{{ .Format "2006-01-02" }}">Last updated: {{ . | time.Format "2 January 2006" }}</time></span>{{ end }}
+    </p>
+    {{ end }}
+    {{ .Content }}
+  </article>
+{{ end }}

@@ -1,0 +1,98 @@
+{{ define "main" }}
+  <div class="container container--wide">
+    <h1>{{ .Title }}</h1>
+    <p class="section-intro">
+      A collection of mainframe links to enhance your experience and allow you to learn more about mainframes.
+      {{ with .Lastmod }}<br><em>Last updated: {{ . | time.Format "2 January 2006" }}</em>{{ end }}
+    </p>
+    <p class="section-intro">
+      Want to learn? Check out <a href="{{ "/training/" | relURL }}">/training</a>.
+    </p>
+
+    {{/* ───────────── Community ───────────── */}}
+    {{ with hugo.Data.community }}
+    <section class="resource-section" aria-labelledby="community">
+      <h2 id="community">Community</h2>
+      <p>Community played a huge part in influencing my decision to stay in this field. I hope you find it the same.</p>
+      <div class="card-grid">
+        {{ range . }}
+          {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc "sublinks" .sublinks) }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Events ───────────── */}}
+    {{ $hasEvents := or (hugo.Data.events_podcasts) (or (hugo.Data.events_upcoming) (hugo.Data.events_past)) }}
+    {{ if $hasEvents }}
+    <section class="resource-section" aria-labelledby="events">
+      <h2 id="events">Events</h2>
+      <p>Attending events allows you to network and learn from others. There are many mainframe-related events held yearly.</p>
+
+      {{/* Podcasts sub-section */}}
+      {{ with hugo.Data.events_podcasts }}
+      <h3>Podcasts &amp; Regular Publications</h3>
+      <div class="card-grid">
+        {{ range . }}
+          {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Upcoming events */}}
+      {{ with hugo.Data.events_upcoming }}
+      <h3>Upcoming Events</h3>
+      <div class="card-grid">
+        {{ range . }}
+          {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Past events */}}
+      {{ with hugo.Data.events_past }}
+      <details >
+        <summary>
+          Past events with recordings (2017–2025)
+        </summary>
+        <div class="card-grid card-grid--compact">
+          {{ range . }}
+            {{ partial "card-compact.html" (dict "tag" .tag "title" .title "url" .url) }}
+          {{ end }}
+        </div>
+      </details>
+      {{ end }}
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Advocacy ───────────── */}}
+    {{ with hugo.Data.advocacy }}
+    <section class="resource-section" aria-labelledby="advocacy">
+      <h2 id="advocacy">Advocacy</h2>
+      <p>It is undeniable that we need fresh talent in the mainframe field. You can help by advocating for it and spreading the news.</p>
+      <div class="card-grid">
+        {{ range . }}
+          {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* ───────────── Swags ───────────── */}}
+    {{ with hugo.Data.swags }}
+    <section class="resource-section" aria-labelledby="swags">
+      <h2 id="swags">Swags</h2>
+      <p>Show your mainframe pride with merchandise from these shops.</p>
+      <div class="card-grid">
+        {{ range . }}
+          {{ partial "card.html" (dict "tag" .tag "title" .title "url" .url "desc" .desc) }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    <div class="disclaimer">
+      <p>Any views or opinions represented on this website are personal and do not represent those of individuals or organizations that I am associated with.</p>
+    </div>
+  </div>
+{{ end }}

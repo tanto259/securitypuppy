@@ -1,0 +1,49 @@
+{{ define "main" }}
+  <article class="container--wide">
+    <h1>{{ .Title }}</h1>
+    <p class="section-intro">
+      Looking to get hands-on experience with a mainframe? Here are the options available, from free trials to paid environments.
+      {{ with .Lastmod }}<br><em>Last updated: {{ . | time.Format "2 January 2006" }}</em>{{ end }}
+    </p>
+    <p class="section-intro">
+      Want to learn? Check out <a href="{{ "/training/" | relURL }}">/training</a>. Back to <a href="{{ "/links/" | relURL }}">/links</a>.
+    </p>
+
+    {{/* Complementary Access */}}
+    <section class="resource-section" aria-labelledby="free-access">
+      <h2 id="free-access">Complementary Access</h2>
+      <p>Free options for getting started with a mainframe environment.</p>
+      <div class="card-grid">
+        {{ range hugo.Data.access_complementary }}
+          {{ partial "card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+
+    {{/* Paid Access */}}
+    <section class="resource-section" aria-labelledby="paid-access">
+      <h2 id="paid-access">Paid Access</h2>
+      <p>Commercial options for dedicated mainframe development and testing environments.</p>
+      <div class="card-grid">
+        {{ range hugo.Data.access_paid }}
+          {{ partial "card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+
+    {{/* Historical Resources */}}
+    <section class="resource-section" aria-labelledby="historical">
+      <h2 id="historical">Historical Resources</h2>
+      <p>Older mainframe operating systems that are publicly available. While discontinued, some are still useful for training.</p>
+      <div class="card-grid">
+        {{ range hugo.Data.access_historical }}
+          {{ partial "card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+
+    <div class="disclaimer">
+      <p>Any views or opinions represented on this website are personal and do not represent those of individuals or organizations that I am associated with.</p>
+    </div>
+  </article>
+{{ end }}

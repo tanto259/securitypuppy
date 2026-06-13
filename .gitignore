@@ -1,6 +1,24 @@
-*.gem
-.bundle
-.jekyll-cache
-.sass-cache
-_site
-Gemfile.lock
+# Hugo build output
+public/
+resources/
+
+# Hugo lock file
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+
+# Agent instructions
+AGENTS.md

@@ -1,0 +1,12 @@
+<footer class="site-footer">
+  {{ $path := "" }}
+  {{ if .IsHome }}
+    {{ $path = "home" }}
+  {{ else }}
+    {{ $path = .RelPermalink | strings.TrimSuffix "/" | strings.TrimPrefix "/" }}
+    {{ if not $path }}
+      {{ $path = "home" }}
+    {{ end }}
+  {{ end }}
+  <p>{{ .Site.Title }}/{{ $path }}</p>
+</footer>

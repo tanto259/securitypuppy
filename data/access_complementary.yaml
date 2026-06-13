@@ -1,0 +1,19 @@
+- tag: Free
+  title: IBM Z Xplore
+  url: https://www.ibm.com/z/education/xplore/
+  desc: Free interactive platform with hands-on access to a real IBM Z environment.
+
+- tag: Free
+  title: LinuxONE Community Cloud
+  url: https://linuxone.cloud.marist.edu/
+  desc: Free access to Linux on IBM LinuxONE, hosted by Marist College.
+
+- tag: Trial
+  title: IBM zSystems Software Trials
+  url: https://www.ibm.com/products/z-software-trials
+  desc: Trial access to IBM zSystems software products.
+
+- tag: Academic
+  title: IBM Z Academic Cloud
+  url: https://zacademic.marist.edu/
+  desc: Cloud-based mainframe access for academic institutions.

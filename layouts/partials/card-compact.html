@@ -1,0 +1,11 @@
+{{/* Compact card partial — accepts dict: tag, title, url */}}
+<article class="card card--compact">
+  {{ with .tag }}<span class="tag">{{ . }}</span>{{ end }}
+  <h3 class="card-title">
+    {{ if .url }}
+      <a href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .title }}</a>
+    {{ else }}
+      {{ .title }}
+    {{ end }}
+  </h3>
+</article>

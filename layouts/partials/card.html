@@ -1,0 +1,20 @@
+{{/* Card partial — accepts dict: tag, title, url, desc, sublinks */}}
+{{/* sublinks is a slice of dicts with: title, url */}}
+<article class="card">
+  {{ with .tag }}<span class="tag">{{ . }}</span>{{ end }}
+  <h3 class="card-title">
+    {{ if .url }}
+      <a href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .title }}</a>
+    {{ else }}
+      {{ .title }}
+    {{ end }}
+  </h3>
+  {{ with .desc }}<p class="card-desc">{{ . }}</p>{{ end }}
+  {{ with .sublinks }}
+  <ul class="card-sublinks">
+    {{ range . }}
+      <li><a href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</article>

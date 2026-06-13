@@ -1,0 +1,34 @@
+- tag: Podcast
+  title: Terminal Talk
+  url: https://www.terminaltalk.net/
+  desc: Podcast covering mainframe topics, industry news, and interviews.
+
+- tag: Podcast
+  title: I Am A Mainframer
+  url: https://openmainframeproject.org/news/i-am-a-mainframer-podcast/
+  desc: Podcast series featuring stories from mainframe professionals.
+
+- tag: Podcast
+  title: "Mainframe, Performance, Topics"
+  url: https://podcasters.spotify.com/pod/show/marna-walle
+  desc: Podcast on mainframe performance topics hosted by IBM's Marna Walle.
+
+- tag: Podcast
+  title: Z DevOps Talks
+  url: https://creators.spotify.com/pod/profile/z-devops-talks/
+  desc: Podcast focused on DevOps practices and tooling for IBM Z.
+
+- tag: Podcast
+  title: "z/Action! Podcast"
+  url: https://community.ibm.com/community/user/ibmz-and-linuxone/viewdocument/zaction-podcast
+  desc: IBM community podcast covering z/OS and LinuxONE topics.
+
+- tag: Webcast
+  title: Linux on IBM zSystems and LinuxONE Webcast
+  url: https://www.ibm.com/support/pages/node/6351445
+  desc: Regular webcast series on running Linux on IBM Z and LinuxONE.
+
+- tag: Community
+  title: z/OSMF Community Guild Sessions
+  url: https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild
+  desc: Community sessions on z/OS Management Facility best practices.

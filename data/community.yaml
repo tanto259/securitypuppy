@@ -1,0 +1,90 @@
+- tag: Foundation
+  title: Open Mainframe Project
+  url: https://openmainframeproject.org/
+  desc: Community hub for open-source mainframe projects, working groups, events, and mentorship programs.
+  sublinks:
+    - title: COBOL Working Group
+      url: https://lists.openmainframeproject.org/g/wg-cobol
+    - title: Linux Distributions Working Group
+      url: https://wiki.openmainframeproject.org/display/LinuxDistrosWG
+    - title: Modernization Working Group
+      url: https://wiki.openmainframeproject.org/display/MW/Modernization+WG+Home
+    - title: Community Slack Workspace
+      url: https://slack.openmainframeproject.org/
+    - title: Community Forum
+      url: https://community.openmainframeproject.org/
+
+- tag: IBM
+  title: IBM Z and LinuxONE Community
+  url: https://www.ibm.com/community/z/
+  desc: IBM's official community for zSystems users, educators, and enthusiasts.
+  sublinks:
+    - title: New to IBM zSystems
+      url: https://ibm.biz/newtoibmz
+    - title: IBM zSystems Educator Hub
+      url: https://ibm.biz/educatorhub
+
+- tag: User Group
+  title: SHARE
+  url: https://www.share.org/
+  desc: One of the largest independent associations for enterprise IT professionals.
+
+- tag: User Group
+  title: Guide Share Europe
+  url: https://www.gse.org/
+  desc: European user group for enterprise computing professionals.
+
+- tag: User Group
+  title: GS UK
+  url: https://www.gse.org.uk
+  desc: Independent UK-based user group hosting regular conferences and virtual events on enterprise computing.
+
+- tag: User Group
+  title: VM Workshop
+  url: http://www.vmworkshop.org/
+  desc: Annual workshop dedicated to z/VM and Linux on IBM Z.
+
+- tag: User Group
+  title: MainframerZ Meetup
+  url: https://www.meetup.com/MainframerZ-London/
+  desc: London-based meetup for mainframe professionals and enthusiasts.
+
+- tag: User Group
+  title: Enterprise Computing Community
+  url: https://ecc.marist.edu/
+  desc: Academic community at Marist College focused on enterprise computing education.
+
+- tag: Community
+  title: zopen Community
+  url: https://zopen.community/#/
+  desc: Open-source community porting modern tools and utilities to z/OS.
+
+- tag: IBM
+  title: IBM Z Customer Council
+  url: https://ibm-zcouncil.com/
+  desc: Forum for IBM Z customers to share experiences and network with peers.
+
+- tag: Social
+  title: "r/mainframe — Reddit"
+  url: https://www.reddit.com/r/mainframe/
+  desc: Active subreddit for mainframe discussion, questions, and news.
+
+- tag: Social
+  title: "Mainframe Experts — LinkedIn"
+  url: https://www.linkedin.com/groups/910927/
+  desc: LinkedIn group for mainframe professionals to network and share insights.
+
+- tag: Social
+  title: "Professional Mainframers — Facebook"
+  url: https://www.facebook.com/groups/ProfessionalMainframers/
+  desc: Facebook group for mainframe professionals to connect and discuss.
+
+- tag: Social
+  title: "Mainframe Enthusiasts — Discord"
+  url: https://discord.gg/eyRjj4t
+  desc: Discord server for real-time mainframe chat and community support.
+
+- tag: Social
+  title: "System Z Enthusiasts — Discord"
+  url: https://discord.gg/rFXEVKK7AH
+  desc: Discord server focused on IBM System Z discussion and community.

@@ -1,0 +1,114 @@
+- tag: CICS
+  title: Modernize Applications with IBM CICS
+  url: https://www.ibm.com/training/course/modernize-applications-with-ibm-cics
+  desc: Learn to modernize CICS applications using modern interfaces and APIs.
+
+- tag: IMS
+  title: IMS Education
+  url: https://www.ibm.com/training/course/ims-education
+  desc: Training materials for IBM IMS database and transaction manager.
+
+- tag: Security
+  title: IBM zSystems Cybersecurity Insights
+  url: https://www.ibm.com/training/course/ibm-zsystems-cybersecurity-insights
+  desc: Cybersecurity best practices and threat landscape for IBM zSystems.
+
+- tag: Networking
+  title: z/OS TCP/IP Configuration with NCA
+  url: https://www.ibm.com/training/course/zos-tcpip-configuration-with-nca
+  desc: Advanced TCP/IP configuration on z/OS using Network Configuration Assistant.
+
+- tag: Security
+  title: "z/OS Network Security — Foundations"
+  url: https://www.ibm.com/training/course/zos-network-security-foundations
+  desc: Foundation course on securing z/OS network communications.
+
+- tag: Security
+  title: zERT Policy Enforcement Configuration with NCA
+  url: https://www.ibm.com/training/course/zert-policy-enforcement-configuration-with-nca
+  desc: Configure z/OS Encryption Readiness Technology (zERT) policy enforcement.
+
+- tag: Automation
+  title: IBM Z System Automation
+  url: https://www.ibm.com/training/course/ibm-z-system-automation-integration-by-system-programmer
+  desc: Integration course for system programmers on IBM Z System Automation.
+
+- tag: Analytics
+  title: IBM Z Operational Log and Data Analytics — Foundations
+  url: https://www.ibm.com/training/course/ibm-z-operational-log-and-data-analytics-foundations
+  desc: Foundation course on analyzing operational log data from z/OS systems.
+
+- tag: Analytics
+  title: IBM Z Operational Log and Data Analytics — Intermediate
+  url: https://www.ibm.com/training/course/ibm-z-operational-log-and-data-analytics-intermediate
+  desc: Intermediate course building on log analytics foundations for z/OS.
+
+- tag: z/OS
+  title: z/OS System Services Structure
+  url: https://www.ibm.com/training/course/zos-system-services-structure
+  desc: Deep dive into z/OS system services architecture and components.
+
+- tag: z/OS
+  title: SMP/E for z/OS Workshop
+  url: https://www.ibm.com/training/course/smp-e-for-zos-workshop
+  desc: Hands-on workshop for SMP/E software installation and maintenance.
+
+- tag: z/OS
+  title: z/OS Installation Using z/OSMF
+  url: https://www.ibm.com/training/course/zos-installation-using-zosmf
+  desc: Learn to install and configure z/OS using z/OS Management Facility.
+
+- tag: USS
+  title: Introducing z/OS UNIX System Services
+  url: https://www.ibm.com/training/course/introducing-zos-unix-system-services
+  desc: Introduction to USS (z/OS UNIX) and its role in the z/OS ecosystem.
+
+- tag: GDPS
+  title: GDPS Fundamentals
+  url: https://www.ibm.com/training/course/gdps-fundamentals
+  desc: Learn the fundamentals of IBM's Geographically Dispersed Parallel Sysplex.
+
+- tag: Linux
+  title: Linux on IBM LinuxONE Intermediate
+  url: https://www.ibm.com/training/course/linux-on-ibm-linuxone-intermediate
+  desc: Intermediate-level course on managing Linux workloads on LinuxONE.
+
+- tag: DFSMS
+  title: "z/OS DFSMS Academy — DFSMShsm Explorer"
+  url: https://www.ibm.com/training/course/zos-dfsms-academy-dfsmshsm-explorer
+  desc: Course on DFSMShsm hierarchical storage management on z/OS.
+
+- tag: REXX
+  title: z/OS REXX Programming
+  url: https://www.ibm.com/training/course/zos-rexx-programming
+  desc: Learn REXX programming on z/OS for scripting and automation.
+
+- tag: PL/I
+  title: Introduction to the PL/I Programming Language
+  url: https://www.ibm.com/training/course/introduction-to-the-pli-programming-language
+  desc: Get started with PL/I, a versatile enterprise programming language.
+
+- tag: Assembler
+  title: "z/Architecture Assembler — Part 1: The Basics"
+  url: https://www.ibm.com/training/course/zarchitecture-assembler-language-part-1-the-basics
+  desc: Introduction to z/Architecture assembler language programming.
+
+- tag: Assembler
+  title: "z/Architecture Assembler — Part 2: Machine Instructions"
+  url: https://www.ibm.com/training/course/zarchitecture-assembler-language-part-2-machine-instructions
+  desc: Continuation of assembler programming covering machine instructions.
+
+- tag: z/VM
+  title: z/VM Education
+  url: https://www.ibm.com/training/course/zvm-education
+  desc: Training materials for IBM z/VM virtualization technology.
+
+- tag: Trials
+  title: IBM zSystems Software Trials
+  url: https://www.ibm.com/training/course/ibm-zsystems-software-trials
+  desc: Trial access to IBM zSystems software for evaluation and learning.
+
+- tag: Storage
+  title: IBM DS8000 Gen10 Storage Fundamentals
+  url: https://www.ibm.com/training/course/ibm-ds8000-gen10-storage-fundamentals
+  desc: Fundamentals of IBM DS8000 storage systems used with mainframes.

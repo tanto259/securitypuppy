@@ -1,0 +1,69 @@
+- tag: IBM
+  title: IBM Z Xplore
+  url: https://www.ibm.com/z/education/xplore/
+  desc: Interactive learning platform for getting started with IBM Z, with hands-on exercises.
+
+- tag: IBM Docs
+  title: z/OS Basic Skills
+  url: https://www.ibm.com/docs/en/zos-basic-skills
+  desc: IBM's introductory documentation for z/OS fundamentals.
+
+- tag: Course
+  title: COBOL Programming Course
+  url: https://github.com/openmainframeproject/cobol-programming-course
+  desc: Open-source COBOL course from the Open Mainframe Project, with free lab access.
+
+- tag: Security
+  title: IBM z/OS Security Essentials
+  url: https://www.ibm.com/training/course/zos-security-essentials
+  desc: Course covering z/OS security concepts including RACF, encryption, and audit.
+
+- tag: Resiliency
+  title: IBM Z Resiliency
+  url: https://www.ibm.com/training/course/ibm-z-resiliency
+  desc: Learn about the high-availability and disaster recovery capabilities of IBM Z.
+
+- tag: Practitioner
+  title: z/OS Mainframe Practitioner
+  url: https://www.ibm.com/training/course/zos-mainframe-practitioner
+  desc: Foundational course for aspiring z/OS practitioners.
+
+- tag: Architecture
+  title: Architecting Applications with IBM Z
+  url: https://www.ibm.com/training/course/architecting-applications-with-ibm-z
+  desc: Course on designing and architecting applications for IBM Z.
+
+- tag: Modernization
+  title: Application Modernization on IBM Z
+  url: https://www.ibm.com/training/course/application-modernization-on-ibm-z
+  desc: Learn strategies and tools for modernizing legacy mainframe applications.
+
+- tag: Networking
+  title: "Networking for z/OS — Foundations"
+  url: https://www.ibm.com/training/course/networking-for-zos-foundations
+  desc: Foundation course on z/OS networking concepts and TCP/IP fundamentals.
+
+- tag: Networking
+  title: "TCP/IP on z/OS Essentials — Level 1"
+  url: https://www.ibm.com/training/course/tcpip-on-zos-essentials-level-1
+  desc: Essential TCP/IP configuration and administration on z/OS.
+
+- tag: Linux
+  title: Linux on LinuxONE
+  url: https://www.ibm.com/training/course/linux-on-linuxone
+  desc: Introduction to running Linux on IBM LinuxONE and zSystems hardware.
+
+- tag: z/OS
+  title: z/OS Introduction
+  url: https://www.ibm.com/training/course/zos-introduction
+  desc: Introductory course covering z/OS concepts, architecture, and basic operations.
+
+- tag: CICS
+  title: Introduction to CICS
+  url: https://www.ibm.com/training/course/introduction-to-cics
+  desc: Get started with CICS transaction processing on z/OS.
+
+- tag: Kickstart
+  title: IBM Z Enterprise Computing Kickstart
+  url: https://www.ibm.com/training/course/ibm-z-enterprise-computing-kickstart
+  desc: Accelerated introduction to enterprise computing on IBM Z for newcomers.

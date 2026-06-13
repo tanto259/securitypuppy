@@ -1,0 +1,52 @@
+{{ define "main" }}
+  <article>
+    <h1>{{ .Title }}</h1>
+    <div class="prose section-intro">
+      {{ .Content }}
+    </div>
+
+    <div class="contact-methods">
+
+      <section class="contact-card">
+        <h3>Email</h3>
+        <p>Send me an email and I'll get back to you at my earliest convenience.</p>
+        <p><span id="email-link"><noscript>Enable JavaScript to see email address</noscript></span></p>
+        <p class="text-muted">You can also send encrypted emails using my OpenPGP public keys. Please include your own public key if you want replies encrypted.</p>
+        <ul class="pgp-keys">
+          <li><a href="https://securitypuppy.com/.well-known/openpgpkey/B25ECFC69E1033FA.pub.asc">Key A: <code>B25E CFC6 9E10 33FA</code></a></li>
+          <li><a href="https://securitypuppy.com/.well-known/openpgpkey/2FB77A8F827D7A42.pub.asc">Key B: <code>2FB7 7A8F 827D 7A42</code></a></li>
+        </ul>
+      </section>
+
+      <section class="contact-card">
+        <h3>ActivityPub</h3>
+        <p>I self-host a personal <a href="https://github.com/superseriousbusiness/gotosocial" target="_blank" rel="noopener noreferrer">GoToSocial</a> instance, connectable via Mastodon, Pleroma, Misskey, and other ActivityPub apps.</p>
+        <p><a href="https://social.securitypuppy.com/@hartanto" target="_blank" rel="noopener noreferrer">social.securitypuppy.com/@hartanto</a></p>
+      </section>
+
+      <section class="contact-card">
+        <h3>Snail Mail</h3>
+        <p>Alternatively — it may take a while, but include a return address for replies.</p>
+        <address class="address-block">
+          Hartanto Ario Widjaya<br>
+          387 Joo Chiat Road, #02-11<br>
+          MPB 1904<br>
+          Singapore 427623
+        </address>
+      </section>
+
+    </div>
+
+    <div class="disclaimer">
+      <p>Any views or opinions represented on this website are personal and do not represent those of individuals or organizations that I am associated with.</p>
+    </div>
+  </article>
+{{ end }}
+
+{{ define "scripts" }}
+  {{ $contactJS := resources.Get "js/contact.js" }}
+  {{ if $contactJS }}
+    {{ $contactMin := $contactJS | minify | fingerprint }}
+    <script src="{{ $contactMin.RelPermalink }}" integrity="{{ $contactMin.Data.Integrity }}" defer></script>
+  {{ end }}
+{{ end }}

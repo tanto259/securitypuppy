@@ -1,0 +1,44 @@
+- tag: IBM
+  title: IBM SkillsBuild for Students
+  url: https://skillsbuild.org/
+  desc: Free IBM learning platform for students covering AI, cloud, cybersecurity.
+
+- tag: IBM
+  title: IBM SkillsBuild for Adult Learners
+  url: https://skillsbuild.org/adult-learners
+  desc: Free IBM learning platform for adult learners and career changers.
+
+- tag: Security
+  title: IBM Security Learning Academy
+  url: https://www.ibm.com/training/security-learning-academy
+  desc: Free training on IBM Security products and cybersecurity concepts.
+
+- tag: Quantum
+  title: IBM Quantum Learning
+  url: https://learning.quantum.ibm.com/
+  desc: Free quantum computing learning platform from IBM.
+
+- tag: Data Science
+  title: Cognitive Class
+  url: https://cognitiveclass.ai/
+  desc: Free data science, AI, and cloud computing courses from IBM.
+
+- tag: MOOC
+  title: Coursera
+  url: https://www.coursera.org/
+  desc: Online course platform with IBM mainframe and enterprise computing courses.
+
+- tag: MOOC
+  title: edX
+  url: https://www.edx.org/
+  desc: Online learning platform with enterprise computing courses.
+
+- tag: MOOC
+  title: Udemy
+  url: https://www.udemy.com/
+  desc: Online marketplace with mainframe and COBOL courses.
+
+- tag: IBM
+  title: IBM SkillsBuild for College Students
+  url: https://skillsbuild.org/college-students
+  desc: IBM SkillsBuild tailored for college-level students.

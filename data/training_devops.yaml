@@ -1,0 +1,39 @@
+- tag: Training
+  title: ADFz/RDz/IDz Instructor-Led Training
+  url: https://www.ibm.com/training/course/adfz-rdz-idz-instructor-led-training
+  desc: Instructor-led training for IBM's family of z/OS development tools.
+
+- tag: IDE
+  title: IBM Developer for z/OS
+  url: https://www.ibm.com/training/course/ibm-developer-for-zos
+  desc: Learn to use IBM Developer for z/OS for application development and debugging.
+
+- tag: Build
+  title: IBM Dependency Based Build
+  url: https://www.ibm.com/training/course/ibm-dependency-based-build
+  desc: Course on dependency-based build processes for z/OS applications.
+
+- tag: Discovery
+  title: IBM Application Discovery & Delivery Intelligence
+  url: https://www.ibm.com/training/course/ibm-application-discovery-and-delivery-intelligence
+  desc: Learn to analyze and understand legacy application portfolios with IBM ADI.
+
+- tag: Cloud Native
+  title: Cloud Native Development with IBM Z
+  url: https://www.ibm.com/training/course/cloud-native-development-with-ibm-z-and-cloud-modernization-stack-fundamentals
+  desc: Fundamentals of cloud-native development using IBM Z and Cloud Modernization Stack.
+
+- tag: VSCode
+  title: IBM Developer for z/OS on VSCode Fundamentals
+  url: https://www.ibm.com/training/course/ibm-developer-for-zos-on-vscode-fundamentals
+  desc: Get started with z/OS development in Visual Studio Code.
+
+- tag: AI
+  title: IBM watsonx Code Assistant for Z Fundamentals
+  url: https://www.ibm.com/training/course/ibm-watsonx-code-assistant-for-z-fundamentals
+  desc: Learn to use IBM's AI-powered code assistant for mainframe modernization.
+
+- tag: Optimizer
+  title: Automatic Binary Optimizer for z/OS Essentials
+  url: https://www.ibm.com/training/course/automatic-binary-optimizer-for-zos-essentials
+  desc: Course on optimizing COBOL and PL/I binaries without recompilation.

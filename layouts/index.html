@@ -1,0 +1,34 @@
+{{ define "main" }}
+  <div class="hero">
+    <img class="hero-logo hero-logo-dark" src="/img/theme_logo_dark.png" alt="securitypuppy logo">
+    <img class="hero-logo hero-logo-light" src="/img/theme_logo_light.png" alt="securitypuppy logo">
+    <p class="tagline">{{ .Site.Params.tagline | default "Mainframe links, resources, and words for everyone." }}</p>
+  </div>
+
+  <div class="prose">
+    {{ .Content }}
+  </div>
+
+  <nav class="quick-links" aria-label="Quick links">
+    <a class="quick-link" href="{{ "/links/" | relURL }}">
+      <span class="quick-link-label">/links</span>
+      <span class="quick-link-desc">Curated mainframe resources</span>
+    </a>
+    <a class="quick-link" href="{{ "/training/" | relURL }}">
+      <span class="quick-link-label">/training</span>
+      <span class="quick-link-desc">Mainframe training resources</span>
+    </a>
+    <a class="quick-link" href="{{ "/words/" | relURL }}">
+      <span class="quick-link-label">/words</span>
+      <span class="quick-link-desc">Blog posts and notes</span>
+    </a>
+    <a class="quick-link" href="{{ "/access/" | relURL }}">
+      <span class="quick-link-label">/access</span>
+      <span class="quick-link-desc">Get hands-on mainframe experience</span>
+    </a>
+  </nav>
+
+  <div class="disclaimer">
+    <p>Any views or opinions represented on this website are personal and do not represent those of individuals or organizations that I am associated with.</p>
+  </div>
+{{ end }}

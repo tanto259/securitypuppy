@@ -1,0 +1,49 @@
+- tag: Community
+  title: Zikipedia
+  url: https://ibmredbooks.github.io/zikipedia/
+  desc: Community-driven knowledge base for IBM Z.
+
+- tag: IBM
+  title: IBM z/OS Documentation
+  url: https://www.ibm.com/docs/en/zos
+  desc: Official IBM documentation for z/OS.
+
+- tag: IBM
+  title: IBM zSystems Redbooks
+  url: https://www.redbooks.ibm.com/domains/zsystems
+  desc: In-depth technical guides and best practices from IBM.
+
+- tag: IBM
+  title: IBM Z Hot Topics
+  url: https://www.ibm.com/docs/en/zos-hot-topics
+  desc: Technical articles and insights on current z/OS topics.
+
+- tag: IBM
+  title: IBM z/OSMF One Stop Hub
+  url: https://ibm.github.io/zOSMF/
+  desc: Central resource for z/OS Management Facility documentation.
+
+- tag: IBM
+  title: Mainframe DEV
+  url: https://ibm.github.io/mainframe-downloads/
+  desc: IBM's portal for mainframe developer tools and downloads.
+
+- tag: IBM
+  title: IBM Documentation Offline
+  url: https://www.ibm.com/docs/en/offline
+  desc: Downloadable offline versions of IBM product documentation.
+
+- tag: Community
+  title: Mainframe Skills Depot
+  url: https://mainframeskillsdepot.ibm.com/
+  desc: IBM's centralized hub for mainframe learning paths.
+
+- tag: Community
+  title: Mainframe Open Education
+  url: https://open-main-frame-project.gitbook.io/mainframe-open-education-project/
+  desc: Open-source educational materials for mainframe learning.
+
+- tag: Security
+  title: RACF Information by RSH Consulting
+  url: https://www.rshconsulting.com/racfres.htm
+  desc: Curated collection of RACF security resources and references.

@@ -1,0 +1,24 @@
+- tag: Historical
+  title: MVS 3.8j
+  url: https://www.cbttape.org/mvs38.htm
+  desc: Historical MVS 3.8j operating system for the Hercules emulator.
+
+- tag: Historical
+  title: VM/370 R6
+  url: https://www.cbttape.org/vm6.htm
+  desc: Historical VM/370 Release 6 for the Hercules emulator.
+
+- tag: Historical
+  title: OS/360
+  url: https://www.cbttape.org/os360.htm
+  desc: Historical OS/360, the foundation of IBM's mainframe OS lineage.
+
+- tag: Historical
+  title: OS/VS1
+  url: https://www.cbttape.org/osvs1.htm
+  desc: Historical OS/VS1 with virtual storage support.
+
+- tag: Historical
+  title: Linux/390
+  url: https://www.cbttape.org/linux390.htm
+  desc: Historical Linux port for the S/390 architecture.
