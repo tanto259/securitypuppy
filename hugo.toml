@@ -5,6 +5,7 @@ locale = 'en-us'
 [params]
   author = "Hartanto Ario Widjaya"
   description = "Mainframe links and resources for everyone."
+  seoTitle = "securitypuppy — Mainframe Links, Training & Resources"
   socialImage = "/img/social/home.png"
   tagline = "Mainframe links and resources for everyone."
 

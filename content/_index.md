@@ -2,7 +2,7 @@
 title = "securitypuppy"
 description = "A site filled with mainframe links and resources for everyone."
 date = 2022-08-26
-lastmod = 2022-08-26
+lastmod = 2026-06-13
 layout = "index"
 
 [sitemap]

@@ -2,7 +2,7 @@
 title = "Words"
 description = "A collection of random notes about mainframe-related topics."
 date = 2022-01-01
-lastmod = 2022-11-08
+lastmod = 2026-06-13
 image = "/img/social/words.png"
 layout = "words"
 
