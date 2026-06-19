@@ -23,6 +23,9 @@
 {{/* Canonical */}}
 <link rel="canonical" href="{{ .Permalink }}">
 
+{{/* 404: keep search engines from indexing error pages */}}
+{{ if in .Permalink "404.html" }}<meta name="robots" content="noindex, nofollow">{{ end }}
+
 {{/* Favicon */}}
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
