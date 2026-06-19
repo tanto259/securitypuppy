@@ -299,18 +299,40 @@ img { max-width: 100%; height: auto; display: block; }
 body[data-theme="light"] .theme-icon-sun { display: none; }
 body[data-theme="light"] .theme-icon-moon { display: inline; }
 
-/* ---------- footer ---------- */
+/* ---------- footer / breadcrumb ---------- */
 .site-footer {
   margin-top: auto;
   border-top: 1px solid var(--border);
   padding: 1.5rem 0;
-  text-align: center;
 }
-.site-footer p {
+.breadcrumb ol {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0;
+  margin: 0;
+  padding: 0;
   font-family: var(--font-mono);
   font-size: 0.78rem;
   color: var(--text-muted);
-  line-height: 1.6;
+  justify-content: center;
+}
+.breadcrumb li + li::before {
+  content: "›";
+  margin: 0 0.45rem;
+  color: var(--text-muted);
+  opacity: 0.6;
+}
+.breadcrumb a {
+  color: var(--accent);
+  text-decoration: none;
+}
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+.breadcrumb [aria-current="page"] {
+  color: var(--text-muted);
 }
 
 /* ---------- typography ---------- */

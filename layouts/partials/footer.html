@@ -1,12 +1,15 @@
 <footer class="site-footer">
-  {{ $path := "" }}
-  {{ if .IsHome }}
-    {{ $path = "home" }}
-  {{ else }}
-    {{ $path = .RelPermalink | strings.TrimSuffix "/" | strings.TrimPrefix "/" }}
-    {{ if not $path }}
-      {{ $path = "home" }}
-    {{ end }}
-  {{ end }}
-  <p>{{ .Site.Title }}/{{ $path }}</p>
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <ol>
+      <li>{{ if .IsHome }}<span aria-current="page">Home</span>{{ else }}<a href="/">Home</a>{{ end }}</li>
+      {{ range .Ancestors.Reverse }}
+        {{ if not .IsHome }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+      {{ if not .IsHome }}
+        <li><span aria-current="page">{{ .Title }}</span></li>
+      {{ end }}
+    </ol>
+  </nav>
 </footer>
