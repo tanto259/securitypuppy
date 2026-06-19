@@ -14,6 +14,8 @@
 }
 </script>
 {{- else -}}
+{{/* Section-to-page mapping: Hugo section → user-facing URL */}}
+{{ $sectionMap := dict "w" "/words/" }}
 {{- $scratch := newScratch -}}
 {{- $scratch.Set "pos" 0 -}}
 {{- $scratch.Set "hasPrev" false -}}
@@ -27,11 +29,13 @@
 {{- $wasPrev := $scratch.Get "hasPrev" -}}
 {{- if $wasPrev }},{{ end -}}
 {{- $p := $scratch.Get "pos" -}}
+{{- $itemURL := .Permalink -}}
+{{- with index $sectionMap .Section }}{{ $itemURL = . | absURL }}{{ end -}}
     {
       "@type": "ListItem",
       "position": {{ add $p 1 }},
       "name": {{ .Title }},
-      "item": {{ .Permalink }}
+      "item": {{ $itemURL }}
     }
 {{- $dummy := $scratch.Set "pos" (add $p 1) -}}
 {{- $dummy := $scratch.Set "hasPrev" true -}}

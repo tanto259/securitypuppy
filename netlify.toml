@@ -39,6 +39,12 @@
   force = false
 
 [[redirects]]
+  from = "https://securitypuppy.com/w"
+  to = "https://securitypuppy.com/words"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://securitypuppy.com/why-cobol-student-edition"
   to = "https://securitypuppy.com/w/learningcobol"
   status = 301

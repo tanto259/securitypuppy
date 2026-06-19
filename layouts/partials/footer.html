@@ -1,10 +1,14 @@
+{{/* Section-to-page mapping: Hugo section path → user-facing URL */}}
+{{ $sectionMap := dict "w" "/words/" }}
 <footer class="site-footer">
   <nav class="breadcrumb" aria-label="Breadcrumb">
     <ol>
       <li>{{ if .IsHome }}<span aria-current="page">Home</span>{{ else }}<a href="/">Home</a>{{ end }}</li>
       {{ range .Ancestors.Reverse }}
         {{ if not .IsHome }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ $url := .RelPermalink }}
+          {{ with index $sectionMap .Section }}{{ $url = . }}{{ end }}
+          <li><a href="{{ $url }}">{{ .Title }}</a></li>
         {{ end }}
       {{ end }}
       {{ if not .IsHome }}
