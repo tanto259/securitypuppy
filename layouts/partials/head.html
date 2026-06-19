@@ -30,6 +30,9 @@
 {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 
+{{/* JSON-LD structured data */}}
+{{ partial "json-ld.html" . }}
+
 {{/* RSS */}}
 {{ range .AlternativeOutputFormats }}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}

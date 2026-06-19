@@ -1,0 +1,49 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ .Site.Title }},
+  "url": {{ .Site.BaseURL }},
+  "description": {{ .Site.Params.description }},
+  "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.author }}
+  }{{ if .Site.Params.seoTitle }},
+  "alternateName": {{ .Site.Params.seoTitle }}{{ end }}
+}
+</script>
+{{- else -}}
+{{- $scratch := newScratch -}}
+{{- $scratch.Set "pos" 0 -}}
+{{- $scratch.Set "hasPrev" false -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+{{- range .Ancestors.Reverse -}}
+{{- if not .IsHome -}}
+{{- $wasPrev := $scratch.Get "hasPrev" -}}
+{{- if $wasPrev }},{{ end -}}
+{{- $p := $scratch.Get "pos" -}}
+    {
+      "@type": "ListItem",
+      "position": {{ add $p 1 }},
+      "name": {{ .Title }},
+      "item": {{ .Permalink }}
+    }
+{{- $dummy := $scratch.Set "pos" (add $p 1) -}}
+{{- $dummy := $scratch.Set "hasPrev" true -}}
+{{- end -}}
+{{- end -}}
+{{- if $scratch.Get "hasPrev" }},{{ end -}}
+    {
+      "@type": "ListItem",
+      "position": {{ add ($scratch.Get "pos") 1 }},
+      "name": {{ .Title }}
+    }
+  ]
+}
+</script>
+{{- end }}
