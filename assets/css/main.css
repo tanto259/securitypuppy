@@ -151,7 +151,7 @@ img { max-width: 100%; height: auto; display: block; }
   width: 90%;
   max-width: var(--max-w);
   margin: 0 auto;
-  padding: 0 0 3rem;
+  padding: 0 0 1.5rem;
 }
 .container--wide {
   max-width: var(--max-w-wide);

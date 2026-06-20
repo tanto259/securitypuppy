@@ -15,13 +15,13 @@ With CICS, a transaction name is limited to 4 characters. On your shop, you may 
 
 Having a way we can enforce CICS transaction naming, and preventing people from stepping on each other is something we need to solve before allowing everyone into the subsystem. However, perhaps there are other ways we can let users have a taste of CICS.
 
-### External CICS Interface
+## External CICS Interface
 
 One of the way that came to my attention recently is through something called the External CICS Interface (EXCI). It is a set of APIs which enable non-CICS application running on z/OS to call a CICS program in a region. So theoretically speaking, you should be able to call a CICS program from an ordinary batch COBOL program.
 
 Now, it's time to try to see how we can enable it and try it out. For the COBOL Programming Course, we are using a single region CICS system, so we have no need to configure any kind of dynamic routing for CICSPlex. So static it is!
 
-### Configuring EXCI for Static Routing
+## Configuring EXCI for Static Routing
 
 The [IBM Documentation](https://www.ibm.com/docs/en/cics-ts/5.5?topic=exci-setting-up-static-routing) provides a short list of procedure to configure EXCI for static routing. But if, like me, you are starting from scratch and you don't have a lot of CICS knowledge, there are a few missing items.
 
