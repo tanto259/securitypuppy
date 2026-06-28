@@ -32,3 +32,8 @@
   title: z/OSMF Community Guild Sessions
   url: https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/rolando-perez/2021/11/03/zosmf-guild
   desc: Community sessions on z/OS Management Facility best practices.
+
+- tag: Webcast
+  title: IBM Z Deep Dive Series
+  url: https://community.ibm.com/zsystems/events/ibmz-deep-dive-series/
+  desc: IBM Z Deep Dive Series — regular technical sessions on IBM Z topics.

@@ -1,6 +1,6 @@
 - tag: IBM
   title: IBM Z Xplore
-  url: https://www.ibm.com/z/education/xplore/
+  url: https://www.ibm.com/products/z/resources/zxplore
   desc: Interactive learning platform for getting started with IBM Z, with hands-on exercises.
 
 - tag: IBM Docs
@@ -15,55 +15,50 @@
 
 - tag: Security
   title: IBM z/OS Security Essentials
-  url: https://www.ibm.com/training/course/zos-security-essentials
+  url: https://www.ibm.com/training/course/ibm-zos-security-essentials-DL110210G
   desc: Course covering z/OS security concepts including RACF, encryption, and audit.
 
 - tag: Resiliency
   title: IBM Z Resiliency
-  url: https://www.ibm.com/training/course/ibm-z-resiliency
+  url: https://www.ibm.com/training/course/introduction-to-ibm-z-resiliency-DL00017G
   desc: Learn about the high-availability and disaster recovery capabilities of IBM Z.
 
 - tag: Practitioner
   title: z/OS Mainframe Practitioner
-  url: https://www.ibm.com/training/course/zos-mainframe-practitioner
+  url: https://www.ibm.com/training/badge/ibm-z-os-mainframe-practitioner
   desc: Foundational course for aspiring z/OS practitioners.
 
 - tag: Architecture
   title: Architecting Applications with IBM Z
-  url: https://www.ibm.com/training/course/architecting-applications-with-ibm-z
+  url: https://www.ibm.com/training/course/architecting-applications-for-ibm-z-and-cloud-DL01095G
   desc: Course on designing and architecting applications for IBM Z.
 
 - tag: Modernization
   title: Application Modernization on IBM Z
-  url: https://www.ibm.com/training/course/application-modernization-on-ibm-z
+  url: https://www.ibm.com/training/course/ibm-z-app-modernization-DL00036G
   desc: Learn strategies and tools for modernizing legacy mainframe applications.
 
 - tag: Networking
   title: "Networking for z/OS — Foundations"
-  url: https://www.ibm.com/training/course/networking-for-zos-foundations
+  url: https://www.ibm.com/training/course/networking-on-zos-foundations-DL00701G
   desc: Foundation course on z/OS networking concepts and TCP/IP fundamentals.
 
 - tag: Networking
   title: "TCP/IP on z/OS Essentials — Level 1"
-  url: https://www.ibm.com/training/course/tcpip-on-zos-essentials-level-1
+  url: https://www.ibm.com/training/course/tcpip-protocol-overview-DL0079808G
   desc: Essential TCP/IP configuration and administration on z/OS.
 
 - tag: Linux
   title: Linux on LinuxONE
-  url: https://www.ibm.com/training/course/linux-on-linuxone
+  url: https://www.ibm.com/training/course/linux-on-ibm-linuxone-DL007080G
   desc: Introduction to running Linux on IBM LinuxONE and zSystems hardware.
 
 - tag: z/OS
   title: z/OS Introduction
-  url: https://www.ibm.com/training/course/zos-introduction
+  url: https://www.redbooks.ibm.com/abstracts/crse0304.html
   desc: Introductory course covering z/OS concepts, architecture, and basic operations.
 
 - tag: CICS
   title: Introduction to CICS
-  url: https://www.ibm.com/training/course/introduction-to-cics
+  url: https://www.redbooks.ibm.com/abstracts/crse0303.html
   desc: Get started with CICS transaction processing on z/OS.
-
-- tag: Kickstart
-  title: IBM Z Enterprise Computing Kickstart
-  url: https://www.ibm.com/training/course/ibm-z-enterprise-computing-kickstart
-  desc: Accelerated introduction to enterprise computing on IBM Z for newcomers.

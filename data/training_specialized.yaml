@@ -1,114 +1,134 @@
 - tag: CICS
   title: Modernize Applications with IBM CICS
-  url: https://www.ibm.com/training/course/modernize-applications-with-ibm-cics
+  url: https://www.ibm.com/training/course/modernize-applications-with-ibm-cics-DL000027G
   desc: Learn to modernize CICS applications using modern interfaces and APIs.
 
 - tag: IMS
   title: IMS Education
-  url: https://www.ibm.com/training/course/ims-education
+  url: https://imsdev.github.io/ims-education.html
   desc: Training materials for IBM IMS database and transaction manager.
 
 - tag: Security
   title: IBM zSystems Cybersecurity Insights
-  url: https://www.ibm.com/training/course/ibm-zsystems-cybersecurity-insights
+  url: https://www.ibm.com/training/course/ibm-zsystems-cybersecurity-insights-DL0071231G
   desc: Cybersecurity best practices and threat landscape for IBM zSystems.
 
 - tag: Networking
   title: z/OS TCP/IP Configuration with NCA
-  url: https://www.ibm.com/training/course/zos-tcpip-configuration-with-nca
+  url: https://www.ibm.com/training/course/zos-tcpip-configuration-with-network-configuration-assistant-DL00702G
   desc: Advanced TCP/IP configuration on z/OS using Network Configuration Assistant.
 
 - tag: Security
   title: "z/OS Network Security — Foundations"
-  url: https://www.ibm.com/training/course/zos-network-security-foundations
+  url: hhttps://www.ibm.com/training/course/zos-networking-security-foundations-DL006011G
   desc: Foundation course on securing z/OS network communications.
 
 - tag: Security
   title: zERT Policy Enforcement Configuration with NCA
-  url: https://www.ibm.com/training/course/zert-policy-enforcement-configuration-with-nca
+  url: https://www.ibm.com/training/course/zert-policy-enforcement-configuration-with-nca-DL006032G
   desc: Configure z/OS Encryption Readiness Technology (zERT) policy enforcement.
 
 - tag: Automation
-  title: IBM Z System Automation
-  url: https://www.ibm.com/training/course/ibm-z-system-automation-integration-by-system-programmer
+  title: IBM Z System Automation Integration
+  url: https://www.ibm.com/training/course/working-with-integration-components-of-ibm-z-system-automation-DL00020302G
   desc: Integration course for system programmers on IBM Z System Automation.
 
 - tag: Analytics
   title: IBM Z Operational Log and Data Analytics — Foundations
-  url: https://www.ibm.com/training/course/ibm-z-operational-log-and-data-analytics-foundations
+  url: https://www.ibm.com/training/course/getting-to-know-ibm-z-operational-log-and-data-analytics-DL006055G
   desc: Foundation course on analyzing operational log data from z/OS systems.
 
 - tag: Analytics
   title: IBM Z Operational Log and Data Analytics — Intermediate
-  url: https://www.ibm.com/training/course/ibm-z-operational-log-and-data-analytics-intermediate
+  url: https://www.ibm.com/training/badge/ibm-z-operational-log-and-data-analytics
   desc: Intermediate course building on log analytics foundations for z/OS.
 
 - tag: z/OS
   title: z/OS System Services Structure
-  url: https://www.ibm.com/training/course/zos-system-services-structure
+  url: https://www.ibm.com/training/course/zos-system-services-structure-DL00EZ20IG
   desc: Deep dive into z/OS system services architecture and components.
 
 - tag: z/OS
   title: SMP/E for z/OS Workshop
-  url: https://www.ibm.com/training/course/smp-e-for-zos-workshop
+  url: https://www.ibm.com/training/course/smpe-for-zos-workshop-DL000EZ201IG
   desc: Hands-on workshop for SMP/E software installation and maintenance.
 
 - tag: z/OS
   title: z/OS Installation Using z/OSMF
-  url: https://www.ibm.com/training/course/zos-installation-using-zosmf
+  url: https://www.ibm.com/training/badge/z-os-installation-using-z-osmf
   desc: Learn to install and configure z/OS using z/OS Management Facility.
 
 - tag: USS
   title: Introducing z/OS UNIX System Services
-  url: https://www.ibm.com/training/course/introducing-zos-unix-system-services
+  url: https://www.ibm.com/training/course/introducing-zos-unix-system-services-EZP05G
   desc: Introduction to USS (z/OS UNIX) and its role in the z/OS ecosystem.
 
 - tag: GDPS
   title: GDPS Fundamentals
-  url: https://www.ibm.com/training/course/gdps-fundamentals
+  url: https://www.ibm.com/training/course/gdps-fundamentals-DL006073G
   desc: Learn the fundamentals of IBM's Geographically Dispersed Parallel Sysplex.
 
 - tag: Linux
   title: Linux on IBM LinuxONE Intermediate
-  url: https://www.ibm.com/training/course/linux-on-ibm-linuxone-intermediate
+  url: https://www.ibm.com/training/course/linux-on-ibm-linuxone-DL007080G
   desc: Intermediate-level course on managing Linux workloads on LinuxONE.
 
 - tag: DFSMS
   title: "z/OS DFSMS Academy — DFSMShsm Explorer"
-  url: https://www.ibm.com/training/course/zos-dfsms-academy-dfsmshsm-explorer
+  url: https://www.ibm.com/training/badge/z-os-dfsms-academy-dfsmshsm-explorer
   desc: Course on DFSMShsm hierarchical storage management on z/OS.
 
 - tag: REXX
   title: z/OS REXX Programming
-  url: https://www.ibm.com/training/course/zos-rexx-programming
+  url: https://www.ibm.com/training/course/zos-rexx-programming-workshop-self-paced-with-labs-ES57G
   desc: Learn REXX programming on z/OS for scripting and automation.
 
 - tag: PL/I
   title: Introduction to the PL/I Programming Language
-  url: https://www.ibm.com/training/course/introduction-to-the-pli-programming-language
+  url: https://www.ibm.com/training/course/introduction-to-the-pli-programming-language-DL00964G
   desc: Get started with PL/I, a versatile enterprise programming language.
 
 - tag: Assembler
   title: "z/Architecture Assembler — Part 1: The Basics"
-  url: https://www.ibm.com/training/course/zarchitecture-assembler-language-part-1-the-basics
+  url: https://www.ibm.com/training/course/zarchitecture-assembler-language-part-1-the-basics-DL11022G
   desc: Introduction to z/Architecture assembler language programming.
 
 - tag: Assembler
   title: "z/Architecture Assembler — Part 2: Machine Instructions"
-  url: https://www.ibm.com/training/course/zarchitecture-assembler-language-part-2-machine-instructions
+  url: https://www.ibm.com/training/course/zarchitecture-assembler-language-part-2-machine-instructions-EZ341G
   desc: Continuation of assembler programming covering machine instructions.
+
+- tag: Assembler
+  title: "z/Architecture Assembler — Part 3: Working Programs"
+  url: https://www.ibm.com/training/course/zarchitecture-assembler-language-part-3-working-programs-EZ351G
+  desc: Advanced assembler programming focused on building working programs.
 
 - tag: z/VM
   title: z/VM Education
-  url: https://www.ibm.com/training/course/zvm-education
+  url: https://www.ibm.com/support/pages/zvm/education/
   desc: Training materials for IBM z/VM virtualization technology.
+
+- tag: z/VM
+  title: Velocity Software z/VM Training
+  url: https://velocitysoftware.com/educate/training
+  desc: z/VM training courses from Velocity Software, a z/VM systems software provider.
 
 - tag: Trials
   title: IBM zSystems Software Trials
-  url: https://www.ibm.com/training/course/ibm-zsystems-software-trials
+  url: https://early-access.ibm.com/software/support/trial/cst/welcomepage.wss?siteId=1135&tabId=2999&w=1
   desc: Trial access to IBM zSystems software for evaluation and learning.
 
 - tag: Storage
   title: IBM DS8000 Gen10 Storage Fundamentals
-  url: https://www.ibm.com/training/course/ibm-ds8000-gen10-storage-fundamentals
+  url: https://www.ibm.com/training/course/ibm-storage-ds8000-gen10-fundamentals-DL08028G
   desc: Fundamentals of IBM DS8000 storage systems used with mainframes.
+
+- tag: Security
+  title: Transitioning to Quantum-Safe Cryptography on IBM Z
+  url: https://www.ibm.com/training/course/transitioning-to-quantum-safe-cryptography-on-ibm-z-DL00QSC01G
+  desc: Learn to transition to quantum-safe cryptography on IBM Z systems.
+
+- tag: Ansible
+  title: Ansible for IBM Z and LinuxONE Foundations
+  url: https://www.ibm.com/training/course/ansible-for-ibm-z-and-linuxone-foundations-EZANS01G
+  desc: Foundation course on using Ansible to automate IBM Z and LinuxONE environments.

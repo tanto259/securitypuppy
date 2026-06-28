@@ -8,10 +8,10 @@
   url: https://skillsbuild.org/adult-learners
   desc: Free IBM learning platform for adult learners and career changers.
 
-- tag: Security
-  title: IBM Security Learning Academy
-  url: https://www.ibm.com/training/security-learning-academy
-  desc: Free training on IBM Security products and cybersecurity concepts.
+- tag: IBM
+  title: IBM SkillsBuild for College Students
+  url: https://skillsbuild.org/college-students
+  desc: IBM SkillsBuild tailored for college-level students.
 
 - tag: Quantum
   title: IBM Quantum Learning
@@ -37,8 +37,3 @@
   title: Udemy
   url: https://www.udemy.com/
   desc: Online marketplace with mainframe and COBOL courses.
-
-- tag: IBM
-  title: IBM SkillsBuild for College Students
-  url: https://skillsbuild.org/college-students
-  desc: IBM SkillsBuild tailored for college-level students.

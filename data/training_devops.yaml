@@ -1,39 +1,39 @@
 - tag: Training
   title: ADFz/RDz/IDz Instructor-Led Training
-  url: https://www.ibm.com/training/course/adfz-rdz-idz-instructor-led-training
+  url: https://ibm.github.io/mainframe-downloads/Training/idzrdz-remote-training.html
   desc: Instructor-led training for IBM's family of z/OS development tools.
 
 - tag: IDE
   title: IBM Developer for z/OS
-  url: https://www.ibm.com/training/course/ibm-developer-for-zos
+  url: https://ibm.github.io/mainframe-downloads/Training/idz-self-paced-learning.html
   desc: Learn to use IBM Developer for z/OS for application development and debugging.
 
 - tag: Build
   title: IBM Dependency Based Build
-  url: https://www.ibm.com/training/course/ibm-dependency-based-build
+  url: https://ibm.github.io/mainframe-downloads/Training/dbb-self-paced-learning.html
   desc: Course on dependency-based build processes for z/OS applications.
 
 - tag: Discovery
   title: IBM Application Discovery & Delivery Intelligence
-  url: https://www.ibm.com/training/course/ibm-application-discovery-and-delivery-intelligence
+  url: https://ibm.github.io/mainframe-downloads/Training/addi-self-paced-learning.html
   desc: Learn to analyze and understand legacy application portfolios with IBM ADI.
 
 - tag: Cloud Native
   title: Cloud Native Development with IBM Z
-  url: https://www.ibm.com/training/course/cloud-native-development-with-ibm-z-and-cloud-modernization-stack-fundamentals
+  url: https://ibm.github.io/mainframe-downloads/Training/wazideveloper-self-paced-learning.html
   desc: Fundamentals of cloud-native development using IBM Z and Cloud Modernization Stack.
 
 - tag: VSCode
   title: IBM Developer for z/OS on VSCode Fundamentals
-  url: https://www.ibm.com/training/course/ibm-developer-for-zos-on-vscode-fundamentals
+  url: https://ibm.github.io/mainframe-downloads/Training/idz-on-vscode-learning.html
   desc: Get started with z/OS development in Visual Studio Code.
 
 - tag: AI
   title: IBM watsonx Code Assistant for Z Fundamentals
-  url: https://www.ibm.com/training/course/ibm-watsonx-code-assistant-for-z-fundamentals
+  url: https://ibm.github.io/mainframe-downloads/Training/wca4z-learning.html
   desc: Learn to use IBM's AI-powered code assistant for mainframe modernization.
 
 - tag: Optimizer
   title: Automatic Binary Optimizer for z/OS Essentials
-  url: https://www.ibm.com/training/course/automatic-binary-optimizer-for-zos-essentials
+  url: https://www.ibm.com/training/badge/automatic-binary-optimizer-for-z-os-essentials-v2
   desc: Course on optimizing COBOL and PL/I binaries without recompilation.
