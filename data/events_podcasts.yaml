@@ -4,6 +4,11 @@
   desc: Podcast covering mainframe topics, industry news, and interviews.
 
 - tag: Podcast
+  title: IBM Z and LinuxONE Ecosystem Podcast
+  url: https://www.buzzsprout.com/1469530
+  desc: Podcast covering the IBM Z and LinuxONE ecosystem.
+
+- tag: Podcast
   title: I Am A Mainframer
   url: https://openmainframeproject.org/news/i-am-a-mainframer-podcast/
   desc: Podcast series featuring stories from mainframe professionals.
