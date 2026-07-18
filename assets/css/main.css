@@ -488,6 +488,13 @@ code {
   margin-bottom: 0.6rem;
 }
 
+.event-meta {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: -0.3rem;
+  margin-bottom: 0.6rem;
+}
+
 /* tag labels */
 .tag {
   display: inline-block;

@@ -10,6 +10,13 @@
     {{ end }}
   </h3>
   {{ with .desc }}<p class="card-desc">{{ . }}</p>{{ end }}
+  {{ if or .date .location }}
+  <p class="event-meta">
+    {{ with .date }}📅 {{ . }}{{ end }}
+    {{ if and .date .location }} · {{ end }}
+    {{ with .location }}📍 {{ . }}{{ end }}
+  </p>
+  {{ end }}
   {{ with .sublinks }}
   <ul class="card-sublinks">
     {{ range . }}

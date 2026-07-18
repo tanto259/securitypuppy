@@ -2,8 +2,12 @@
   title: SHARE Pittsburgh 2026
   url: https://www.share.org/Events/SHARE-Pittsburgh
   desc: Major enterprise IT conference with mainframe-focused sessions, labs, and networking.
+  date: 16–20 August 2026
+  location: Pittsburgh, PA, USA
 
 - tag: "2026"
-  title: VM Workshop 2026
-  url: https://vmworkshop.org/2026.shtml
-  desc: Annual workshop for z/VM and Linux on IBM Z practitioners.
+  title: "GS | forge26"
+  url: https://conferences.gse.org.uk/2026
+  desc: GSE UK Conference — technical sessions on IBM Z, LinuxONE, and enterprise IT.
+  date: 2–5 November 2026
+  location: Whittlebury Hall, Northamptonshire, UK
