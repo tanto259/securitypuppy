@@ -22,3 +22,8 @@
   title: RACF Training by RSH Consulting
   url: https://www.rshconsulting.com/training.htm
   desc: Specialized RACF security administration training courses.
+
+- tag: Security
+  title: Mainframe Offensive Security Tester
+  url: https://offensivesec.org/training
+  desc: Offensive security training focused on mainframe penetration testing.
