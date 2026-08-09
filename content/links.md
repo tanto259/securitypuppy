@@ -2,7 +2,7 @@
 title = "Mainframe Links"
 description = "A collection of mainframe links to enhance your experience and allow you to learn more about mainframes."
 date = 2021-01-01
-lastmod = 2026-07-18
+lastmod = 2026-08-09
 image = "/img/social/links.png"
 layout = "links"
 
