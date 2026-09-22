@@ -2,7 +2,7 @@
 title = "Training"
 description = "A collection of training materials for mainframes — free courses, paid platforms, documentation, and mentorship programs."
 date = 2021-01-01
-lastmod = 2026-07-24
+lastmod = 2026-09-22
 image = "/img/social/training.png"
 layout = "training"
 
