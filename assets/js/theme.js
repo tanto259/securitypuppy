@@ -30,4 +30,25 @@
       menu.classList.toggle('open');
     });
   }
+
+  // Sticky header shadow on scroll
+  var header = document.querySelector('.site-header');
+  if (header) {
+    var ticking = false;
+    window.addEventListener('scroll', function() {
+      if (!ticking) {
+        window.requestAnimationFrame(function() {
+          header.classList.toggle('scrolled', window.scrollY > 10);
+          ticking = false;
+        });
+        ticking = true;
+      }
+    });
+    // Set CSS variable for sticky offsets (header height varies with fluid font)
+    function setHeaderHeight() {
+      document.documentElement.style.setProperty('--header-height', header.getBoundingClientRect().height + 'px');
+    }
+    setHeaderHeight();
+    window.addEventListener('resize', setHeaderHeight);
+  }
 })();

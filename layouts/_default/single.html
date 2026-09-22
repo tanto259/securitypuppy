@@ -7,7 +7,7 @@
     {{ if or .Date .Lastmod }}
     <p class="post-meta">
       {{ with .Date }}<span class="post-meta-item"><time datetime="{{ .Format "2006-01-02" }}">First published: {{ . | time.Format "2 January 2006" }}</time></span>{{ end }}
-      {{ with .Lastmod }}<span class="post-meta-item"><time datetime="{{ .Format "2006-01-02" }}">Last updated: {{ . | time.Format "2 January 2006" }}</time></span>{{ end }}
+      {{ if and .Lastmod (ne .Lastmod .Date) }}<span class="post-meta-item"><time datetime="{{ .Lastmod.Format "2006-01-02" }}">Last updated: {{ .Lastmod | time.Format "2 January 2006" }}</time></span>{{ end }}
     </p>
     {{ end }}
     {{ .Content }}
@@ -15,4 +15,12 @@
   <div class="disclaimer">
     <p>Any views or opinions represented on this website are personal and do not represent those of individuals or organizations that I am associated with.</p>
   </div>
+{{ end }}
+
+{{ define "scripts" }}
+  {{ $anchorsJS := resources.Get "js/heading-anchors.js" }}
+  {{ if $anchorsJS }}
+    {{ $anchorsMin := $anchorsJS | minify | fingerprint }}
+    <script src="{{ $anchorsMin.RelPermalink }}" integrity="{{ $anchorsMin.Data.Integrity }}" defer></script>
+  {{ end }}
 {{ end }}
