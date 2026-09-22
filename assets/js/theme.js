@@ -44,11 +44,18 @@
         ticking = true;
       }
     });
-    // Set CSS variable for sticky offsets (header height varies with fluid font)
+    // Set CSS variable for sticky offsets (header height varies with fluid font + font loading)
     function setHeaderHeight() {
       document.documentElement.style.setProperty('--header-height', header.getBoundingClientRect().height + 'px');
     }
     setHeaderHeight();
     window.addEventListener('resize', setHeaderHeight);
+    if ('ResizeObserver' in window) {
+      new ResizeObserver(setHeaderHeight).observe(header);
+    }
+    // Recalculate after fonts finish loading
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(setHeaderHeight);
+    }
   }
 })();
