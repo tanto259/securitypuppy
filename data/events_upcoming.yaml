@@ -1,13 +1,6 @@
 - tag: "2026"
-  title: Marist Computing Conference 2026
-  url: https://www.marist.edu/computer-science-math/marist-computing-conference-mcc
-  desc: Academic computing conference at Marist College covering enterprise computing, AI, and cybersecurity.
-  date: 30 October 2026
-  location: Poughkeepsie, NY, USA
-
-- tag: "2026"
-  title: "GS | forge26"
-  url: https://conferences.gse.org.uk/2026
-  desc: GSE UK Conference — technical sessions on IBM Z, LinuxONE, and enterprise IT.
-  date: 2–5 November 2026
-  location: Whittlebury Hall, Northamptonshire, UK
+  title: IBM Z Day 2026
+  url: https://community.ibm.com/zsystems/events/ibm-z-day-2026/
+  desc: "Free 1-day virtual enterprise computing conference: IBM Z and LinuxONE news from 250+ expert speakers across AI, Hybrid Cloud, and Quantum-Safe Security."
+  date: 18 November 2026
+  location: Virtual

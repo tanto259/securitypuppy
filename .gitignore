@@ -7,6 +7,7 @@ resources/
 
 # OS files
 .DS_Store
+._*
 Thumbs.db
 
 # Editor files
