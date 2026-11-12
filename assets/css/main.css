@@ -249,6 +249,11 @@ img { max-width: 100%; height: auto; display: block; }
   border-color: var(--accent);
   color: var(--accent);
 }
+/* Theme toggle — same 2.25rem square as .nav-btn (matches search button); accent glyph at 1rem */
+.theme-toggle {
+  font-size: 1rem;
+  color: var(--accent);
+}
 
 /* Hamburger — hidden on desktop */
 .hamburger {
